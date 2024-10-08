@@ -1,0 +1,175 @@
+ PERFORM QUALITATIVE RISK ANALYSIS 
+ 6.1  Purpose and Objectives of the Perform Qualitative Risk 
+Analysis Process 
+ The Perform Qualitative Risk Analysis process assesses and evaluates characteristics of individually 
+identiﬁ ed project risks and prioritizes risks based on agreed-upon characteristics. 
+ Assessing individual risks using qualitative risk analysis evaluates the probability that each risk will occur 
+and the effect of each individual risk on the project objectives. As such it does not directly address the overall 
+risk to project objectives that results from the combined effect of all risks and their potential interactions with 
+each other. This can however be achieved through use of quantitative risk analysis techniques (see Chapter 7). 
+ One step in the analysis is to categorize risks according to their sources or causes. If several risks arise 
+from a common source, sometimes called a root cause, risk responses may be more effective when they focus 
+on addressing this root cause. 
+ Identifying common effects from groups of risks allows identiﬁ cation of the areas of greatest risk exposure 
+(e.g. to the project completion date, the budget, or a particular deliverable’s scope), facilitating risk response 
+focus in these areas. 
+ The methods of qualitative risk analysis are applied to the list of risks created or updated by the Identify 
+Risks process to provide project management with the characteristics of the risks that have the most inﬂ uence 
+(positive or negative) on achieving the project’s objectives. Risks that are assessed as high priority to either 
+threaten or to enhance the achievement of project objectives will be an important focus in the Plan Risk 
+Responses process. They may be further analyzed, such as in the analysis of the overall project risk that is 
+discussed in Perform Quantitative Risk Analysis process. 
+ 6.2  Critical Success Factors for the Perform Qualitative Risk 
+Analysis Process 
+ Several factors that lead to successful qualitative risk analysis are described in Sections 6.2.1 through 
+6.2.4, and summarized in Figure 6-1. Agreement of the project stakeholders is a fundamental criterion and 
+a common theme. The agreed-upon approach is the foundation of process credibility. Then, agreed-upon 
+deﬁ nitions enable high-quality information to be collected. Finally, with these conditions in place, the process 
+can be executed reliably, which contributes to the credibility of its outputs. 
+
+
+Figure 6-1: Building Risk Analysis Credibility
+
+This image illustrates a pyramid divided into four layers, representing the key factors needed to build credibility in risk analysis. Each layer builds upon the one below it, starting from the base of the pyramid:
+
+1. Agreed-Upon Approach (Base of the pyramid):
+   - This foundational layer highlights the importance of having a consensus on the approach used for risk analysis.
+
+2. Agreed-Upon Definitions (Second layer):
+   - This layer emphasizes the need for clearly defined and mutually accepted terms used in risk analysis.
+
+3. High-Quality Information (Third layer):
+   - Ensuring that high-quality information is used is critical for the accuracy and reliability of the risk analysis.
+
+4. Iteration (Top of the pyramid):
+   - The top layer represents the importance of iterating the risk analysis process, continuously improving it based on new insights and data.
+
+This pyramid structure illustrates the building blocks required to establish and maintain credibility in risk analysis.
+
+ 
+ Figure 6 -1. Building Risk Analysis Credibility 
+ 6.2.1 Use Agreed-Upon Approach 
+ The process is based on an agreed-upon approach to this assessment that is applied across all of the 
+identiﬁ ed risks in any project. By the nature of project risk, all risks may be assessed according to probability 
+of occurrence and impact on individual objectives should the risk occur. Other factors may be considered in 
+determining the importance of a risk as follows: 
+ 
+•  Urgency (proximity).  Risks requiring near term responses may be considered more urgent to 
+address. Indicators of urgency can include the lead time necessary to execute a risk response and the 
+clarity of symptoms and warning signs (also known as detectability) that may trigger the response. 
+ Manageability.
+• 
+  Some risks are not manageable and it would be a waste of resources to attempt to 
+address them. The project team may examine these and decide to: 
+ Go forward, perhaps establishing a contingency reserve. 
+ 
+○
+ Stop or re-scope the project because these risks pose an unmanageable threat or an 
+ 
+○
+ opportunity that should not be missed with high probability and consequences. 
+ Inform the customer of the risks and ask for a decision from their point of view. 
+ 
+○
+   Impact external to the project.
+• 
+   A risk may increase in importance if it affects the enterprise beyond 
+the project. 
+ 6.2.2 Use Agreed-Upon Deﬁ nitions of Risk Terms 
+ The risk assessment should be based on agreed-upon deﬁ nitions of important terms, and those deﬁ nitions 
+should be used consistently when assessing each risk. The use of deﬁ nitions, for example, of levels of probability 
+and of impact on objectives, assists the providers of the information in giving realistic assessments for each 
+risk, and facilitates the communication of the results to management and other stakeholders. 
+
+
+Figure 6-2: The Perform Qualitative Risk Analysis Process
+
+This image presents a step-by-step flow of the qualitative risk analysis process. The process is visualized in a vertical sequence with arrows pointing downward from one step to the next:
+
+1. Select Risk Characteristics:
+   - The first step involves selecting the characteristics of the risks that will be analyzed.
+
+2. Collect and Analyze Data:
+   - In this step, data is collected and analyzed to understand the risks better.
+
+3. Prioritize Risks:
+   - After analyzing the data, risks are prioritized based on their potential impact and likelihood.
+
+4. Categorize Risk Causes:
+   - Risks are then categorized based on their causes to group similar types of risks together.
+
+5. Document Results:
+   - The final step involves documenting the results of the qualitative risk analysis for further use in the project.
+
+This diagram outlines the essential steps involved in performing qualitative risk analysis, helping to assess and prioritize risks effectively.
+
+ 6.2.3 Collect High-Quality Information about Risks 
+ Collection of high-quality information about risks is required. Often this information is not available in any 
+historic database and should be gathered by interviews, workshops, and other means using expert judgment. Data 
+gathered from individuals may be subject to reporting or intentional bias. When this occurs, the bias should be 
+identiﬁ ed and remedied where possible, or a different, unbiased source of information should be found and used. 
+ 6.2.4 Perform Iterative Qualitative Risk Analysis 
+ The success of qualitative risk analysis is enhanced if the process is used periodically throughout the project. It 
+is impossible to know in advance all the risks that may occur in a project, therefore the Identify Risks and Perform 
+Qualitative Analysis processes should be repeated periodically for individual risks. The frequency of this effort will 
+be planned in the Plan Risk Management process, but may also depend on events within the project itself. 
+ 6.3  Tools and Techniques for the Perform Qualitative Risk Analysis Process 
+ The tools and techniques used for assessing individual risks will identify the risks that are important to the 
+project’s success. This process is illustrated in Figure 6-2. 
+ 
+ Figure 6-2. The Perform Qualitative Risk Analysis Process 
+
+ 6.3.1 Select Risk Characteristics that Deﬁ ne Risks’ Importance 
+ Qualitative risk analysis tools provide ways to distinguish those risks that are important for response or 
+further analysis from those that are less important. The criteria that make a risk of interest to management are 
+agreed upon in advance and implemented in the tools used. Output from qualitative risk analysis tools includes 
+a listing of risks in priority order or in priority groups (e.g., high, moderate, and low). 
+ The tools for qualitative risk analysis allow the organization or project stakeholders to specify those levels 
+or combinations of risk characteristics that make a particular risk of interest to management. Most tools assess 
+a risk’s importance from a combination of probability of occurrence and degree of impact on objectives. 
+ 6.3.2 Collect and Analyze Data 
+ Assessment of individual risks is based on information collected about them. Therefore, data collection 
+and evaluation tools, including interviews, workshops, and references to databases of prior projects, require 
+management support and attention. It is important to protect against bias in data gathering, which is important 
+when relying on expert judgment for the information. 
+ 6.3.3 Prioritize Risks by Probability and Impact on Speciﬁ c Objectives 
+ Some tools permit distinguishing a risk’s priority in terms of the affected objective. This capability provides 
+a list of risks that are important for any speciﬁ c objective of interest to management. This is useful since it is 
+common for risks to have uneven impacts on various project objectives. 
+ 6.3.4 Prioritize Risks by Probability and Impact on Overall Project 
+ There are reasons for constructing a measure of a speciﬁ c risk’s importance to the entire project as 
+contrasted with its importance to speciﬁ c objectives. A common reason is for ease of communication with 
+management and other stakeholders. When a single risk prioritization index is needed, the organization should 
+be explicit about how that index is created. Usually the index reﬂ ects the organization’s preference among 
+objectives. The technique for creating the overall risk priority measure should be documented in the Plan Risk 
+Management process. 
+
+ 6.3.5 Categorize Risk Causes 
+ Categorizing risks appropriately may lead to improved analysis of the probability and magnitude of 
+project risk and to effective responses. Understanding the relationships between risks may provide a better 
+understanding of the possibility and magnitude of project risk than if risks are only considered as separate 
+and independent events. Identifying common root causes of a group of risks, for instance, may reveal both the 
+magnitude of the risk event for the group as a whole along with effective strategies that might address several 
+risks simultaneously. Alternatively, some risks may be linked with others in a causal chain, and understanding 
+the chain of risks may lead to a better understanding of the implication of risk for the project. Identifying risks 
+that can occur at the same time or using the same resources for recovery might provide a realistic picture of 
+problems of risk mitigation using scarce resources. 
+ Combining the results of the Perform Qualitative Risk Analysis process with the risk breakdown structure 
+(see Identify Risks, Chapter 5) can show clusters of priority risks arising from speciﬁ c sources. A combination 
+of the risk analysis information with the work breakdown structure (WBS) can show which areas of the project 
+exhibit the most risk. Assessing the high-priority risks’ impact on one objective, such as the schedule, may 
+indicate which activities to address to reduce that objective’s uncertainty. All of these approaches can contribute 
+to the realism and usefulness of the qualitative risk analysis. 
+ 6.3.6 Document the Results of the Perform Qualitative Risk Analysis Process 
+ The Perform Qualitative Risk Analysis process adds structure to the list of undifferentiated risks (see Identify 
+Risks, Chapter 5) into categories of priority. Priorities are usually based on the risk’s probability of occurring 
+and its potential impact on speciﬁ c project objectives or on the whole project. Each identiﬁ ed risk is assigned 
+a priority, perhaps by objective or for the entire project. This information is usually stored in the risk register 
+which is easy to use and update with new information. The risk register list of prioritized risks is posted to the 
+project participants who are responsible for further analysis or action to improve the project plan. Risks that 
+are judged to have high priority are segregated for further analysis and response planning and are generally 
+monitored frequently. Risks of low priority to the project may be placed on a watch list and are reviewed less 
+often for changes in their status. 
+
+
+

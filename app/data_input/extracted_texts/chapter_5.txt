@@ -1,0 +1,147 @@
+ IDENTIFY RISKS 
+ 5.1 Purpose and Objectives of the Identify Risks Process 
+ A risk cannot be managed unless it is ﬁ rst identiﬁ ed. Consequently, after risk management planning has 
+been completed, the ﬁ rst process in the iterative Project Risk Management process aims to identify all the 
+knowable risks to project objectives. 
+ It is, however, impossible to identify all the risks at the outset of a project. Over time, the level of project 
+risk exposure changes as a result of the decisions and actions taken previously in the project (internal change) 
+and of externally imposed change. 
+ The purpose of risk identiﬁ cation is to identify risks to the maximum extent that is practicable. The fact that 
+some risks are unknowable or emergent requires the Identify Risk process to be iterative, repeating the Identify 
+Risks process to ﬁ nd new risks which have become knowable since the previous iteration of the process. 
+ When a risk is ﬁ rst identiﬁ ed, potential responses may also be identiﬁ ed at the same time. These should be 
+recorded during the Identify Risks process and considered for immediate action if such action is appropriate. 
+Where such responses are not implemented immediately, these should be considered during the Plan Risk 
+Responses process. 
+ 5.2 Critical Success Factors for the Identify Risks Process 
+ The practices described in Sections 5.2.1 through 5.2.10 will maximize the value and effectiveness of the 
+Identify Risks process and enhance the likelihood of identifying as many risks as practicable. 
+ 5.2.1 Early Identiﬁ cation 
+ Risk identiﬁ cation should be performed as early as possible in the project lifecycle, recognizing the paradox 
+that uncertainty is high in the initial stages of a project so there is often less information on which to base the 
+risk identiﬁ cation. Early risk identiﬁ cation enables key project decisions to take maximum account of risks 
+inherent in the project, and may result in changes to the project strategy. It also maximizes the time available 
+for development and implementation of risk responses, which enhances efﬁ ciency since responses taken early 
+are often normally less costly than later ones. 
+
+ 5.2.2 Iterative Identiﬁ cation 
+ Since not all risks can be identiﬁ ed at any given point in the project, it is essential that risk identiﬁ cation is 
+repeated throughout the project life cycle. This should be done periodically, at a frequency determined during 
+the Plan Risk Management process. Risk identiﬁ cation might also be repeated at key milestones in the project, 
+or whenever there is signiﬁ cant change to the project or its operating environment. 
+ 5.2.3 Emergent Identiﬁ cation 
+ In addition to invoking the Identify Risks process as deﬁ ned in the project plan, the Project Risk Management 
+process should permit risks to be identiﬁ ed at any time, not limited to formal risk identiﬁ cation events or 
+regular reviews. 
+ 5.2.4 Comprehensive Identiﬁ cation 
+ A broad range of sources of risk should be considered to ensure that as many uncertainties as possible that 
+might affect objectives have been identiﬁ ed. 
+ 5.2.5 Explicit Identiﬁ cation of Opportunities 
+ The Identify Risks process should ensure opportunities are properly considered. 
+ 5.2.6 Multiple Perspectives 
+ The Identify Risks process should take input from a broad range of project stakeholders to ensure that 
+all perspectives are represented and considered. Limiting risk identiﬁ cation to the immediate project team is 
+unlikely to expose all knowable risks. 
+ 5.2.7 Risks Linked to Project Objectives 
+ Each identiﬁ ed project risk should relate to at least one project objective (time, cost, quality, scope, etc.), 
+noting that the  PMBOK  ®  Guide  deﬁ nes risk as an uncertain event or condition that, if it occurs, has a positive 
+or a negative effect on a project’s objectives. Consideration of each project objective during the Identify Risks 
+process will assist in identifying risks, noting that some risks may affect more than one objective. 
+ 5.2.8 Complete Risk Statement 
+ Identiﬁ ed risks should be clearly and unambiguously described, so that they can be understood by those 
+responsible for risk assessment and risk response planning. Single words or phrases such as “resources” 
+or “logistics” are inadequate and do not properly communicate the nature of the risk. More detailed risk 
+descriptions are required which explicitly state the uncertainty and its causes and effects. 
+
+
+Figure 5-1: Three Perspectives of Risk Identification
+
+This image shows a diagram representing the three perspectives of risk identification for a project. The perspectives are organized in a flow from "The Project" to three time-based views:
+
+1. Historical Review (Past):
+   - Arrows point from "The Project" to the "Past" indicating that a historical review of past risks is one way to identify risks for the project.
+
+2. Current Assessment (Present):
+   - A vertical arrow points from "The Project" to "Present" indicating that current assessment techniques are used to identify risks in the present context of the project.
+
+3. Creativity Techniques (Future):
+   - Arrows point from "The Project" to the "Future" indicating that creativity techniques can be used to foresee potential future risks.
+
+These three perspectives — past, present, and future — offer a comprehensive approach to identifying risks for a project.
+
+ 5.2.9 Ownership and Level of Detail 
+ Risks can be identiﬁ ed at a number of levels of detail. A generalized or high-level description of risk can 
+make it difﬁ cult to develop responses and assign ownership, while describing risks in a lot of detail can create 
+a great deal of work. Each risk should be described at a level of detail at which it can be assigned to a single 
+risk owner with clear responsibility and accountability for its management. Trigger conditions should also be 
+identiﬁ ed where this is possible and appropriate. 
+ 5.2.10 Objectivity 
+ All human activities are susceptible to bias, especially when dealing with uncertainty. Both motivational 
+biases, where someone is trying to bias the result in one direction or another, or cognitive biases, where 
+biases occur as people are using their best judgment and applying heuristics, may occur. This should be 
+explicitly recognized and addressed during the Identify Risks process. Sources of bias should be exposed 
+wherever possible, and their effect on the risk process should be managed proactively. The aim is to minimize 
+subjectivity, and allow open and honest identiﬁ cation of as many risks as possible to the project. 
+ 5.3 Tools and Techniques for the Identify Risks Process 
+ A range of tools and techniques is available for risk identiﬁ cation. These fall into the following three 
+categories, as illustrated in Figure 5-1: 
+ Figure 5-1. Three Perspectives of Risk Identification 
+
+ 5.3.1 Historical Review 
+ Historical reviews are based on what occurred in the past, either on this project, or other similar projects 
+in the same organization, or comparable projects in other organizations. Historical review approaches rely on 
+careful selection of comparable situations which are genuinely similar to the current project, and ﬁ ltering of 
+data to ensure that only relevant previous risks are considered. In each case, the risks identiﬁ ed in the selected 
+historical situation should be considered, asking whether they or similar risks might arise in this project. 
+ 5.3.2 Current Assessments 
+ Current assessments rely on detailed consideration of the current project, analyzing its characteristics 
+against given frameworks and models in order to expose areas of uncertainty. Unlike historical review 
+approaches, current assessment techniques do not rely on outside reference points, but are based purely on 
+examination of the project. 
+ 5.3.3 Creativity Techniques 
+ A wide range of creativity techniques can be used for risk identiﬁ cation, which encourages project 
+stakeholders to use their imagination to ﬁ nd risks which might affect the project. The outcomes or effectiveness 
+of these techniques depend on the ability of participants to think creatively. These techniques can be used 
+either singly or in groups, and employ varying degrees of structure. These techniques depend on the ability of 
+participants to think creatively, and their success is enhanced by use of a skilled facilitator. 
+ Each category of risk identiﬁ cation technique has strengths and weaknesses, and no single technique 
+can be expected to reveal all knowable risks. Consequently, the Identify Risks process for a particular project 
+should use a combination of techniques, perhaps selecting one from each category. For example, a project may 
+choose to use a risk identiﬁ cation checklist (historical review), together with assumptions analysis (current 
+assessment) and brainstorming (creativity). 
+ Use of a risk breakdown structure which organizes the categories of potential risks on the project, a prompt 
+list, or a set of generic list categories may assist in ensuring that as many sources of risk as practicable have 
+been addressed, while recognizing that no such tools are complete nor can they replace original thinking. 
+
+
+Figure 5-2: Cause, Risk, and Effect
+
+This image presents a flow diagram showing the relationship between Cause, Risk, and Effect. The flow is structured vertically with arrows moving downward, illustrating the progression from cause to risk and then to effect:
+
+1. Cause (Fact or Condition):
+   - The top box labeled "Cause" represents a fact or condition that can potentially lead to a risk.
+
+2. Risk (Uncertainty):
+   - The middle oval labeled "Risk" represents uncertainty that arises due to the cause.
+
+3. Effect (Possible Result):
+   - The bottom box labeled "Effect" represents the possible result or outcome that could occur if the risk materializes.
+
+This diagram simplifies the process of understanding how a cause leads to uncertainty (risk), which can result in a potential effect.
+
+ Whichever risk identiﬁ cation techniques are used, it is important that identiﬁ ed risks are unambiguously 
+described in order to ensure that the project risk process is focused on the actual risks and not distracted or 
+diluted by non-risks. Use of structured risk descriptions can ensure clarity. Risk meta-language offers a useful 
+way of distinguishing a risk from its cause(s) and effect(s), describing each risk using three-part statements in 
+the form: “As a result of cause, risk may occur, which would lead to effect.” The relationship between cause, 
+risk, and effect is shown in Figure 5-2. 
+ 
+ Figure 5-2. Cause, Risk, and Effect 
+ 5.4 Documenting the Results of the Identify Risks Process 
+ The results from the Identify Risks process should be recorded in order to capture all relevant information 
+currently available for each identiﬁ ed risk. The main output from the Identify Risks process is the risk register. 
+This includes a properly structured risk description and the nominated risk owner for each risk, and may also 
+include information on the causes and effects of the risk, trigger conditions, and preliminary responses. 
+
+
+

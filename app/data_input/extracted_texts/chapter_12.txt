@@ -1,0 +1,2290 @@
+D
+ TOOLS, TECHNIQUES AND TEMPLATES FOR 
+PROJECT RISK MANAGEMENT 
+ Many tools and techniques have been developed and are in widespread use to support the Project Risk 
+Management processes. The most commonly used of these are listed in the following tables along with their 
+strengths, weaknesses, and critical success factors. Where a technique can be used in more than one Project 
+Risk Management process, it is described in detail in the section associated with the main process that it 
+supports, and referred to as necessary for other processes to which it can be of use. Examples and templates 
+shown after each table provide illustrations of the most common and good practice uses of these tools and 
+techniques. This information is not intended to explain the tools and techniques but to list them with certain 
+important characteristics. Those who are interested in learning more are encouraged to seek other sources 
+such as handbooks, textbooks, or courses in project risk management. 
+ D.1  Techniques, Examples and Templates for 
+Risk Management Planning (Chapter 4) 
+ Plan Risk Management deﬁ nes the approach to be followed for managing the risks throughout the lifespan 
+of the corresponding project. 
+ D.1.1 Techniques 
+ An example of an approach is given in Table D1. 
+ Table D1. Example of Plan Risk Management Approach 
+Technique
+Strengths
+Weaknesses
+CSFs for Effective 
+Application
+Planning Meetings and 
+Analysis
+Involvement of core 
+• 
+team members
+Depends on 
+• 
+experience of 
+participants
+Prior risk management 
+• 
+plan templates
+Prior stakeholder 
+• 
+analysis
+Existing organizational 
+• 
+guidelines for risk 
+management
+
+D
+ D.1.1.1 The Risk Management Plan – Purpose and Typical Content 
+ Depending on the size and complexity of the project, some or all of the following elements will be present 
+in a risk management plan. 
+ 
+• Introduction 
+ Project Description 
+• 
+ Project objectives 
+ 
+○
+ External dependencies 
+ 
+○
+ Stakeholder analysis 
+ 
+○
+ Risk Management Scope and Objectives 
+• 
+ Variance thresholds 
+ 
+○
+ Prioritization of project objectives 
+ 
+○
+ Thresholds, weights and other parameters 
+ 
+○
+■  Definition of criteria for “unacceptable threats” and “un-missable opportunities” 
+■  Impact scales, probability scales, PxI matrices, weighting of project objectives, 
+prioritization and selection criteria, degree of confidence required for overall risk 
+(e.g., 80 th percentile) from quantitative risk analysis 
+ Risk Management Methodology 
+• 
+ Relationship with the organizational environment 
+ 
+○
+ Risk management activities 
+ 
+○
+■  Link to the project management methodology 
+■  Relationship with other project management processes 
+ Risk taxonomy/risk breakdown structure (either generic or project-specific) 
+ 
+○
+ Format of a fully defined risk statement description (“metalanguage”) 
+ 
+○
+ Key deliverables 
+ 
+○
+ Risk Management Organization 
+• 
+ Roles, responsibilities and levels of authority for risk management 
+ 
+○
+■  Rules of escalation 
+ Budgeting for risk management activities added to the project budget 
+ 
+○
+■  Adapted to the complexity and sensitivity of the project 
+ Scheduling of risk management activities in the project schedule, i.e. when certain actions 
+ 
+○
+or reviews need to be carried out (frequency, life cycle related, etc.) 
+
+D
+ Reporting 
+ 
+○
+■  Governance-related rules of reporting and disclosure 
+ Use of Tools 
+• 
+ Tool name, description, usage 
+ 
+○
+ Structure of the risk database 
+ 
+○
+■  Requirements in terms of system resources 
+ Communications Planning 
+• 
+ Documents, usage, rules for distribution (frequency, audience, etc.) 
+ 
+○
+ Document templates 
+ 
+○
+■  Risk register 
+■■  Risk status reports 
+ D.1.1.2 Templates Relevant to Risk Management Planning 
+ The risk management plan should provide a number of templates for use by the other processes. These 
+may include: 
+ Formal structure for a risk statement 
+• 
+ An example is given below 
+ 
+○
+ Means of categorizing risks, for example a risk breakdown structure 
+• 
+ An example is given in the Identify Risks section of this appendix 
+ 
+○
+ Deﬁ nitions, by project objective, of probability and impact scales 
+• 
+ An example is given in the Perform Qualitative Risk Analysis section of this appendix 
+ 
+○
+ Risk prioritization and selection guidelines 
+• 
+  These guidelines may be used in Perform Qualitative Risk Analysis and in Perform Quantitative 
+ 
+○
+Risk Analysis as well as in Plan Risk Response Planning. An example is given below. 
+ Status report templates 
+• 
+ Typical agenda for status meetings 
+• 
+ D.1.1.3 Risk Statement “Metalanguage” 
+ In order for all risks to be clearly deﬁ ned, a standard structure for the way in which the risk is described 
+should be speciﬁ ed and applied. A typical such statement is: 
+ “Because of <one or more causes>, <risk> might occur, which would lead to <one or more effects>”. 
+
+D
+ D.1.1.4 Risk Prioritization and Selection Guidelines 
+ The selection and prioritization of risks must be linked to the project objectives. The risk management plan 
+will deﬁ ne the relative importance to be assigned to these objectives (e.g. reliability takes precedence over 
+time, etc.): this may be in the form of numerical “weights” that can be applied to create a single weighted sum 
+over all objectives for each risk. Any other features that may affect the urgency of dealing with a risk should 
+also be speciﬁ ed (e.g. one linked to a resource that will soon disappear should be given greater urgency). 
+ D.2 Techniques, Examples and Templates for Identify Risks (Chapter 5) 
+ Identify Risks is carried out in order to develop a comprehensive list of all knowable uncertainties that could 
+have an effect on the project’s objectives. 
+ Table D2. Identify Risks 
+Technique
+Strengths
+Weaknesses
+CSFs for Effective 
+Application
+Assumptions & 
+Constraints Analysis
+ Simple structured 
+• 
+approach
+Can be based on 
+• 
+assumptions & 
+constraints already 
+listed in project charter
+Generates project-
+• 
+speciﬁ c risks
+Implicit/hidden 
+• 
+assumptions or 
+constraints are often 
+missed
+Requires a 
+• 
+comprehensive list 
+of assumptions & 
+constraints
+Brainstorming
+Allows all participants 
+• 
+to speak their mind 
+and contribute to the 
+discussion
+Can involve all key 
+• 
+stakeholders
+Creative generation of 
+• 
+ideas
+Requires attendance of 
+• 
+key stakeholders at a 
+workshop, therefore can 
+be difﬁ cult to arrange 
+and expensive
+Prone to Groupthink and 
+• 
+other group dynamics
+May produce biased 
+• 
+results if dominated by 
+a strong person (often 
+management)
+Often not well facilitated
+• 
+Generates non-risks 
+• 
+and duplicates, requires 
+ﬁ ltering
+Attendance of 
+• 
+representative group of 
+stakeholders
+Commitment to honesty
+• 
+Preparation
+• 
+Good facilitation
+• 
+Use of structure 
+• 
+(e.g. categories or RBS)
+Cause and Effect 
+(Ishikawa) Diagrams
+Visual representation 
+• 
+of project promotes 
+structured thinking
+Diagram can quickly 
+• 
+become over-complex
+Effective selection of 
+• 
+critical impacts (e.g. 
+by use of sensitivity 
+analysis)
+
+D
+Technique
+Strengths
+Weaknesses
+CSFs for Effective 
+Application
+Check Lists
+Captures previous 
+• 
+experience
+Presents detailed list 
+• 
+of risks
+Check list can grow to 
+• 
+become unwieldy
+Risks not on the list will 
+• 
+be missed
+Often only includes 
+• 
+threats, misses 
+opportunities
+Regular maintenance is 
+• 
+required
+Use of structure can 
+• 
+assist (e.g. RBS)
+Delphi Technique
+Captures input from 
+• 
+technical experts
+Removes sources of 
+• 
+bias
+Limited to technical risks
+• 
+Dependent on actual 
+• 
+expertise of experts
+May take longer time than 
+• 
+available due to iterations 
+of the experts’ inputs
+Effective facilitation
+• 
+Careful selection of 
+• 
+experts
+Clear deﬁ nition of scope
+• 
+Document review
+Exposes detailed 
+• 
+project-speciﬁ c risks
+Requires no specialist 
+• 
+tools
+Limited to risks 
+• 
+contained in project 
+documentation
+Understanding of 
+• 
+relevance of prior 
+experience
+FMEA/Fault Tree 
+Analysis
+→ see Chapter 7
+Structured approach, 
+• 
+well understood by 
+engineers
+Produces an estimate 
+• 
+of overall reliability 
+using quantitative tools
+Good tool support
+• 
+Focuses on threats, 
+• 
+not so useful for 
+opportunities
+Requires expert tools not 
+• 
+generally available to 
+those except experts
+Detailed description 
+• 
+of the area being 
+assessed
+Statistically accurate 
+• 
+data on fault 
+probabilities for many 
+events
+Force Field Analysis
+Creates deep 
+• 
+understanding of 
+factors that affect 
+project objectives
+Time-consuming and 
+• 
+complex technique
+Usually only applied to a 
+• 
+single objective, so does 
+not provide whole-project 
+view
+Prioritized objectives
+• 
+Industry knowledge 
+base
+Captures previous 
+• 
+experience
+Allows benchmarking 
+• 
+against external 
+organisations
+Limited to what has 
+• 
+previously happened
+Excludes project-speciﬁ c 
+• 
+risks
+Access to relevant 
+• 
+information
+(continued)
+ Table D2. Identify Risks (continued) 
+
+D
+Technique
+Strengths
+Weaknesses
+CSFs for Effective 
+Application
+Influence diagrams
+Exposes key risk drivers
+• 
+Can generate counter-
+• 
+intuitive insights not 
+available through other 
+techniques
+Requires disciplined 
+• 
+thinking
+Not always easy to 
+• 
+determine appropriate 
+structure
+Identify key areas to 
+• 
+address
+Interviews
+Addresses risks in 
+• 
+detail
+Generates 
+• 
+engagement of 
+stakeholders
+Time consuming
+• 
+Raises non-risks, 
+• 
+concerns, issues, worries 
+etc, so requires ﬁ ltering
+Good interviewing and 
+• 
+questioning skills
+Environment of trust, 
+• 
+openness, conﬁ dentiality
+Preparation
+• 
+Open relationship 
+• 
+between interviewer 
+and interviewee
+Nominal Group 
+Technique
+Encourages and allows 
+• 
+all participants to 
+contribute
+Allows for different 
+• 
+levels of competence 
+in common language
+To a large extent, auto-
+• 
+documenting
+Provides ideal base for 
+• 
+afﬁ nity diagramming 
+(grouping by risk 
+categories for use in 
+the Risk Breakdown 
+Structure and Root 
+Cause Analysis)
+Can lead to frustration in 
+• 
+dominant members who 
+feel it is moving slowly
+Good brieﬁ ng of all 
+• 
+participants in the 
+technique
+Strict facilitation
+• 
+Post-project reviews/
+Lessons Learned/
+Historical Information
+→ see Chapter 6
+Leverages previous 
+• 
+experience
+Prevents making the 
+• 
+same mistakes or 
+missing the same 
+opportunities twice
+Enhances the 
+• 
+Organizational Process 
+Assets
+Limited to those risks that 
+• 
+have occurred previously
+Information is frequently 
+• 
+incomplete: details 
+of past risks may 
+not include details of 
+successful resolution; 
+ineffective strategies are 
+rarely documented.
+Well structured project 
+• 
+lessons learned 
+database
+Participation of previous 
+• 
+project team members 
+(ideally including the 
+project manager)
+Prompt Lists
+Ensures coverage of 
+• 
+all types of risk
+Stimulates creativity
+• 
+Topics can be too high 
+• 
+level
+Choice of list relevant 
+• 
+to the project and its 
+environment
+  Table D2. Identify Risks (continued) 
+
+D
+Technique
+Strengths
+Weaknesses
+CSFs for Effective 
+Application
+Questionnaire
+Encourages broad 
+• 
+thinking to identify 
+risks
+Success depends on the 
+• 
+quality of the questions
+Limited to the topics 
+• 
+covered by the questions
+Can be a simple 
+• 
+reformatting of a checklist
+Clear and unambiguous 
+• 
+questions
+Detailed brieﬁ ng of 
+• 
+respondents
+Risk Breakdown 
+Structure (RBS)
+Offers a framework for 
+• 
+other risk identiﬁ cation 
+techniques such as 
+brainstorming
+Ensures coverage of 
+• 
+all types of risk
+Tests for blind spots or 
+• 
+omissions
+None
+• 
+Requires a 
+• 
+comprehensive RBS, 
+often tailored to the 
+project
+Root-Cause Analysis
+→ see Chapter 6
+Allows identiﬁ cation of 
+• 
+additional, dependent 
+risks
+Allows the organization 
+• 
+to identify risks 
+that may be related 
+because of their 
+common root causes.
+Basis for development 
+• 
+of pre-emptive and 
+comprehensive 
+responses
+Can serve to reduce 
+• 
+apparent complexity
+Most risk management 
+• 
+techniques are organized 
+by individual risk. This 
+organization is not 
+conducive to identifying 
+the root causes
+Can oversimplify and 
+• 
+hide existence of other 
+potential causes
+There may be no valid 
+• 
+strategy available for 
+addressing the root 
+cause once it has been 
+identiﬁ ed.
+Ability to identify if a 
+• 
+risk is an outcome of 
+a more fundamental 
+cause
+Willingness by 
+• 
+management to 
+accept and address 
+the root cause rather 
+than adopting partial 
+workarounds
+SWOT Analysis
+Ensures equal focus 
+• 
+on both threats and 
+opportunities
+Offers a structured 
+• 
+approach to 
+identify threats and 
+opportunities
+Focus on internal 
+• 
+(organizational 
+strengths and 
+weaknesses) and 
+external (opportunities 
+and threats)
+Focuses on internally 
+• 
+generated risks arising 
+from organizational 
+strengths and 
+weaknesses, excludes 
+external risks
+Tends to produce high-
+• 
+level generic risks, not 
+project-speciﬁ c
+Good facilitation
+• 
+Strict adherence to 
+• 
+the technique, to avoid 
+confusing the four 
+SWOT perspectives 
+(i.e. between Strengths 
+and Opportunities, or 
+between Weaknesses 
+and Threats)
+(continued)
+ Table D2. Identify Risks (continued) 
+
+D
+Technique
+Strengths
+Weaknesses
+CSFs for Effective 
+Application
+System Dynamics
+→ see Chapter 715
+Exposes unexpected 
+• 
+inter-relations between 
+project elements 
+(feedback and feed-
+forward loops)
+Can generate counter-
+• 
+intuitive insights not 
+available through other 
+techniques
+Produces overall 
+• 
+impacts of all included 
+events and risks
+Requires specialized 
+• 
+software and expertise to 
+build models
+Focuses on impacts but 
+• 
+difﬁ cult to include the 
+concept of probability
+Understanding of 
+• 
+feedback
+Competence in applying 
+• 
+tools and understanding 
+their output
+Quality of the system 
+• 
+model
+Accuracy of input 
+• 
+data collected for the 
+speciﬁ c project
+WBS Review
+Ensures all elements 
+• 
+of the project scope 
+are considered
+Provides for risks 
+• 
+related to different 
+levels of detail (from 
+high-level to those 
+related to individual 
+work packages)
+Excludes external risks 
+• 
+or those not speciﬁ cally 
+related to WBS elements
+Good WBS
+• 
+ D.2.1 Techniques 
+ Examples of techniques are given in D.2.1.1 through D.2.1.15. 
+ D.2.1.1 Assumptions and Constraints Analysis 
+ This technique requires three steps: 
+ 1. 
+List assumptions and constraints for the project 
+ 2. 
+Test assumptions and constraints by asking two questions: 
+ a. Could the assumption/constraint be false? 
+ b. If it were false, would one or more project objectives be affected (positively or negatively)? 
+ 3. 
+ Where both questions are answered “Yes”, generate a risk, for example in the form: <Assumption/
+constraint> may prove false, leading to <effect on objective(s)>. 
+ The results can be documented in table form, as shown in Figure D1. 
+  Table D2. Identify Risks (continued) 
+
+
+Figure 12-1: Assumption or Constraint Assessment Table
+
+This image presents a table for assessing assumptions or constraints in a project. The columns include:
+1. Assumption or Constraint
+2. Could this assumption/constraint prove false? (Y/N)
+3. If false, would it affect the project? (Y/N)
+4. Convert to a risk?
+
+
+Figure 12-2: Staff Leaving Risk Factors
+
+This image shows a diagram that depicts factors contributing to staff leaving a project or organization. The diagram highlights:
+- Environment (Variety, Challenges, Recognition)
+- Ambition (Satisfaction)
+- Career Prospects (Remuneration)
+- Staff leaving (Exit)
+
+D
+  Figure D1. Example of a Constraint Analysis with Fields for Description and Analysis Results 
+  D.2.1.2 Brainstorming 
+ Brainstorming is commonly used in a facilitated risk identiﬁ cation workshop to identify risks. The standard 
+rules of brainstorming are often modiﬁ ed when the technique is applied to risk identiﬁ cation. For example it 
+is common to structure the risk identiﬁ cation brainstorm using risk categories or a risk breakdown structure. 
+Some evaluation of proposed risks is often included in a risk identiﬁ cation brainstorm to remove non-risks. It is 
+important to ensure active participation of relevant stakeholders in a risk identiﬁ cation brainstorm, and for the 
+facilitator to manage group dynamics carefully. No templates or examples are presented in this appendix. 
+ D.2.1.3 Cause and Effect (Ishikawa) Diagrams 
+ This technique presents in diagrammatic form the causes which contribute to a given outcome. Each main 
+cause can be split further into sub-causes. To use this technique for risk identiﬁ cation the outcome should be stated 
+as an effect on a project objective, i.e. the impact of a risk. The diagram then identiﬁ es risks as those uncertain 
+events which could result in occurrence of the impact. Care needs to be taken when using this technique for 
+risk identiﬁ cation to distinguish between risks (uncertain causes of the impact) and issues (certain causes of the 
+impact). An example cause and effect (Ishikawa) diagram is shown below: the risk (effect) to be analyzed is “staff 
+leaving the project”; the main causes are Environment, Ambition, Career Prospects, Satisfaction, Remuneration. 
+  Figure D2. Example of a Cause and Effect or Ishikawa Diagram for Staff Leaving 
+
+
+Figure 12-3: Risk Category Table
+
+This image presents a table with the following columns:
+1. Risk Category
+2. Subcategory
+3. Example Risks
+4. Could this risk affect our project? (Yes/No/Don't Know/Not applicable)
+
+D
+  D.2.1.4 Checklists 
+ Checklists are compiled to capture previous project experience and allow it to be used for subsequent similar 
+projects. It is possible to structure the risk identiﬁ cation checklist around a risk breakdown structure, as shown 
+in the partial example below. It is useful to present the checklist as a set of risks, each of which is considered in 
+turn to determine whether it might be relevant to the project under consideration. Risk identiﬁ cation checklists 
+should include both threats and opportunities. 
+  . 
+ Figure D3. Example (Fragment) of a Checklist with Typical Structure of Category, Subcategory, 
+Specific Risks and Effect 
+  D.2.1.5 Delphi Technique 
+ The Delphi technique uses a facilitated anonymous polling of subject matter experts to identify risks in their 
+area of expertise. The facilitator gathers the experts’ initial responses and circulates them without attribution 
+to the group, who may revise their contributions based on those of others. The process often generates a 
+consensus of the experts in a few iterations. No templates or examples are presented. 
+ D.2.1.6 Document Review 
+ Risks can be identiﬁ ed through careful review of project documentation, including the project charter, 
+statement of work, contract terms and conditions, subcontracts, technical speciﬁ cations, regulatory 
+requirements, legal stipulations etc (where relevant). Formal structured methods of document review can be 
+used (such as the Fagan Inspection Process), or a more informal approach may be adopted. No templates or 
+examples are presented. 
+ D.2.1.7 FMEA/Fault Tree Analysis 
+ Failure Modes and Effects Analysis (FMEA) or Fault Tree Analysis is the analysis of a model structured to 
+identify the various elements that can cause system failure by themselves, or in combination with others, 
+
+
+Figure 12-4: Quantification of Fault Trees
+
+This image represents a fault tree diagram for quantifying risks in a project. It includes:
+- A probability scale (Frequent to Extremely Remote)
+- Various conditions (e.g., car at main road junction, driver did not stop) with probabilities
+
+D
+based on the logic of the system. Fault tree analysis is typically used in engineering contexts. It can be adapted 
+for use to identify risks by analyzing how risk impacts might arise. Another result is the probability of failure 
+(or of reliability, mean time between failure, etc.) of the overall system, indicating the level of quality of the 
+system or product. If the level of reliability is not acceptable, the Fault Tree can indicate where the system can 
+be made more reliable—therefore, it is useful in the design and engineering phase of the project. An example 
+is shown below. 
+ 
+ Figure D4. Fault Tree Analysis of the Possible Causes of a Crash at the Main Road Junction 
+ (this will be changed to be more project-oriented) 
+  D.2.1.8 Force Field Analysis 
+ Force Field Analysis is typically used in the change management context. It can be adapted for risk 
+identiﬁ cation by identifying driving forces (“forces for change”) and restraining forces (“forces against change”) 
+which currently affect achievement of a project objective. Risks can then be identiﬁ ed as uncertain events or 
+conditions which would lead to a change in the strength of one or more of the identiﬁ ed forces. An example 
+force ﬁ eld diagram is shown below. 
+
+
+Figure 12-5: Forces for and Against Change
+
+This image shows two opposing sides representing forces for and against change. It includes:
+- Forces for Change (e.g., customers want new products, improve production speed)
+- Forces against Change (e.g., loss of staff overtime, staff frightened of new technology)
+
+D
+ 
+ Figure D5. Example of a Force Field Analysis and the Balance of Forces For and Against Change 
+  D.2.1.9 Industry Knowledge Base 
+ An industry knowledge base is a special case of a checklist (see above), and is used similarly. No templates 
+or examples are presented. 
+ D.2.1.10 Inﬂ uence Diagrams 
+ An inﬂ uence diagram is a diagrammatic representation of a project situation, showing the main entities, 
+decision points, uncertainties, and outcomes, and indicating the relationships (inﬂ uences) between them. The 
+inﬂ uence diagram can identify risks when combined with sensitivity analysis or Monte Carlo simulation to 
+reveal sources of risk within the project. An example is shown below. 
+
+
+Figure 12-6: Bid Evaluation Process
+
+This image presents a flowchart for evaluating bids, including the following steps:
+- Issue Invitation to Bid (ITB)
+- Quality of ITB Information
+- Competence of Bidders
+- Competence of Assessment Team
+- Quality of Bids
+- Select Best Bid
+
+D
+ 
+ Figure D6. Example of an Influence Diagram in a Bidding Situation 
+  D.2.1.11 Interviews 
+ Risk identiﬁ cation interviews should include all main stakeholders and be conducted by an independent 
+skilled interviewer using a structured agenda, in an atmosphere of conﬁ dentiality, honesty, and mutual trust. A 
+risk breakdown structure, checklist or prompt list can be used as a framework for risk interviews. No templates 
+or examples are presented. 
+ D.2.1.12 Nominal Group Technique 
+ The Nominal Group Technique is an adaptation of brainstorming where participants share and discuss all 
+issues before evaluation, with each participant participating equally in evaluation. No templates or examples 
+are presented. 
+ D.2.1.13 Post-Project Reviews/Lessons Learned/Historical Information 
+ Information relevant to risks for a current project can be obtained by reviewing databases of risks which 
+occurred in previous similar situations. Such databases might arise from post-project reviews or lessons 
+learned exercises. They may also exist as repositories of historical information, either within an organization or 
+industry body. No templates or examples are presented. 
+
+D
+ D.2.1.14 Prompt Lists 
+ A prompt list is a set of risk categories which can be used to stimulate risk identiﬁ cation. The prompt list 
+may be presented as a risk breakdown structure (see below), or as a set of headings. A number of standard 
+prompt lists have been developed for use in risk identiﬁ cation, and some of these are presented below. These 
+can then be used as a framework for other risk identiﬁ cation techniques such as brainstorming (see D.2.1.2) 
+or risk interviews (see D2.1.11). 
+ 1. The PESTLE prompt list: 
+ Political 
+• 
+ Economic 
+• 
+ Social 
+• 
+ Technological 
+• 
+ Legal 
+• 
+ Environmental 
+• 
+ 2. The TECOP prompt list: 
+ Technical 
+• 
+ Environmental 
+• 
+ Commercial 
+• 
+ Operational 
+• 
+ Political 
+• 
+ 3. The SPECTRUM prompt list: 
+ Socio-cultural 
+• 
+ Political 
+• 
+ Economic 
+• 
+ Competitive 
+• 
+ Technology 
+• 
+ Regulatory/legal 
+• 
+ Uncertainty/risk 
+• 
+ Market 
+• 
+ D.2.1.15 Questionnaire 
+ A risk identiﬁ cation questionnaire can be presented as a special form of checklist (see D.2.1.4), where 
+possible risks are shown in question format (for example “Is the client’s requirement clearly deﬁ ned?”) rather 
+
+
+Figure 12-7: Risk Breakdown Structure (RBS)
+
+This image shows a hierarchical Risk Breakdown Structure (RBS), with different levels of risk including:
+- RBS Level 0: All Sources of Project Risk
+- RBS Level 1: Categories such as Technical Risk, Management Risk, Commercial Risk, External Risk
+- RBS Level 2: Specific subcategories like Scope Definition, Project Management, Contractual Terms
+
+D
+than as risk statements (“The client may change the requirement after project start.”). Alternatively a risk 
+identiﬁ cation questionnaire can be used to present the headings from a prompt list (see D.2.1.14), asking 
+questions such as “Are there any uncertainties arising from the use of technology on this project?” No templates 
+or examples are presented. 
+ D.2.1.16 Risk Breakdown Structure (RBS) 
+ The risk breakdown structure (RBS) is a hierarchical framework of potential sources of risk to a project. An 
+organization may develop a generic RBS for use across all its projects, or a project may use a project-speciﬁ c 
+RBS. A partial example RBS is shown below. 
+ 
+ Figure D7. Example of a Generic Risk Breakdown Structure 
+
+
+Figure 12-8: Phase Entry and Reporting Issues
+
+This image shows the relationship between incorrect reporting, incomplete requirements, and their impacts, including:
+- Mistrust, Repeated Audits, Rework, Extra Cost, Schedule Slips, Low Morale
+
+D
+  D.2.1.17 Root-Cause Analysis 
+ A root cause analysis seeks to identify basic causes of risks that may be visible symptoms of more 
+fundamental forces. It may also identify common sources of several risks, leading to broad-reaching risk 
+response strategies. Similarly, care needs to be taken when using this technique for risk identiﬁ cation to 
+distinguish between risks (uncertain causes of the impact) and issues (certain causes of the impact). In the 
+diagram shown below the risks that were initially identiﬁ ed included rework, extra cost, schedule slips, low 
+team morale, customer mistrust and repeated audits. An examination of the identiﬁ ed risks lead to a common 
+root cause, that later phases of the project were typically started before the earlier ones were sufﬁ ciently 
+mature. This organization repeatedly ignored the proper phase entry prerequisites, hastening later project 
+stages in order to speed up the project. 
+ 
+ Figure D8. Example of a Root Cause Analysis 
+  D.2.1.18 SWOT Analysis 
+ SWOT Analysis identiﬁ es four characteristics of a given situation: strengths, weaknesses, opportunities and 
+threats. The technique is commonly used in strategic decision making. It can be adapted for risk identiﬁ cation 
+by changing the interpretation of the four perspectives, such that strengths and weaknesses relate to the 
+characteristics of the organization conducting the project, and opportunities and threats identify the project 
+risks. The technique is particularly useful for identifying internally-generated risks arising from within the 
+organization. For example opportunities might be found by leveraging organizational strengths, or threats 
+might arise as a result of organizational weaknesses, as illustrated below. 
+
+
+Figure 12-9: Strengths, Weaknesses, Opportunities, and Threats (SWOT) Analysis
+
+This image outlines the SWOT analysis process with the following steps:
+1. Identify and list organizational strengths and weaknesses.
+2. Derive opportunities from strengths and threats from weaknesses using risk metalanguage.
+
+
+Figure 12-10: Customer Acquisition and Retention Flow
+
+This image illustrates the customer acquisition and retention process. Key elements include:
+- Potential Customers
+- Technology Adoption Rate
+- Customer Base
+- Discard Rate
+- Word of Mouth
+
+D
+  Figure D9. Example of a SWOT Analysis Structure 
+  D.2.1.19 System Dynamics 
+ System dynamics (SD) is a particular application of inﬂ uence diagrams (see above), and can be used 
+to identify risks within a project situation. The SD model represents entities and information ﬂ ows within a 
+project, and analysis of the model can reveal feed-back and feed-forward loops which lead to uncertainty 
+or instability. In addition, the results of an SD analysis can show the impact of risk events on overall project 
+results, such as the cost or schedule results to be expected. Analyses of changes in the model or assumptions 
+can indicate the system’s sensitivity to speciﬁ c events, some of which may be risks. A simple example of an 
+SD diagram is shown in Figure D11. 
+ Figure D10. Example of a Simple System Dynamics Model with Feedback Loops 
+
+D
+ D.2.1.20 WBS Review 
+ The work breakdown structure (WBS) for a project can form a framework for a number of other risk identiﬁ cation 
+techniques, such as brainstorming, risk interviews, checklists or prompt lists. No templates or examples are presented. 
+ D.3  Techniques, Examples and Templates for Perform Qualitative Risk 
+Analysis (Chapter 6) 
+ Perform Qualitative Risk Analysis prioritizes for further analysis or handling the undifferentiated list of risks 
+that have been identiﬁ ed in the Identify Risks process. Organizations tend to apply resources to those designated 
+as “high risk,” based on their priority, often indicated by the risks’ probability and impact characteristics. 
+ D.3.1 Techniques for Perform Qualtitative Risk Analysis 
+ Example of approaches are given in Table D3 and D.3.1.1 through D.3.1.3. 
+ Table D3. Techniques for Perform Qualitative Risk Analysis 
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs For Effective 
+Application 
+ Root Cause Analysis
+ See Chapter 5 
+ Estimating techniques 
+(applied to probability 
+and impacts) 
+ Addresses both 
+• 
+key dimensions of 
+a risk, namely its 
+degree of uncertainty 
+(expressed as 
+probability) and its 
+effect on project 
+objectives (expressed 
+as impact) 
+ Difﬁ cult to calibrate if 
+• 
+there is no historical 
+database of similar 
+events 
+ Terms for probability 
+• 
+(e.g. probable, 
+almost certain) and 
+for impact (e.g. 
+insigniﬁ cant, major) 
+are ambiguous and 
+subjective 
+ Impacts can 
+• 
+be uncertain or 
+represented by a 
+range of values that 
+cannot be put into a 
+speciﬁ c impact level 
+such as “moderate 
+impact on time” 
+ Agreed deﬁ nitions 
+• 
+of probability and 
+impacts which 
+reﬂ ect stakeholders’ 
+risk tolerances and 
+thresholds 
+ Values used in 
+• 
+the deﬁ nitions 
+represent the same 
+level of impact 
+across objectives 
+as perceived by 
+the organization’s 
+management or 
+project stakeholders 
+Consistent use of 
+• 
+these deﬁ nitions 
+across all identiﬁ ed 
+risks
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+ Access to SMEs who 
+• 
+have experience with 
+the type of risk 
+ Post-project reviews/
+Lessons Learned/
+Historical Information
+→  see Chapter 5 
+ Probability and Impact 
+Matrix (P-I Matrix) 
+ Allows the organization 
+• 
+to prioritize the 
+project risks for 
+further analysis (e.g., 
+quantitative) or risk 
+response 
+ Reﬂ ects the 
+• 
+organization’s level of 
+risk tolerance 
+ Does not explicitly 
+• 
+handle other factors 
+such as urgency or 
+manageability that 
+may partly determine 
+a risk’s ranking. 
+ The range of 
+• 
+uncertainty in the 
+assessment of a 
+risk’s probability or 
+impact may overlap a 
+boundary 
+ P
+• 
+×I matrix requires 
+that the input 
+data are clear and 
+unambiguous in 
+assigning levels of 
+probability and impact 
+ Effective estimation of 
+• 
+impact and likelihood 
+as outlined previously 
+ Organizations should 
+• 
+be careful to assess 
+the combinations of 
+probability and impact 
+that qualify a risk 
+as low, moderate or 
+high risk so that the 
+method used reﬂ ects 
+the organization’s risk 
+attitude 
+ Deﬁ nitions used to 
+• 
+designate the levels 
+of impact (L, M, H) 
+for each objective 
+should represent 
+the same level of 
+impact as perceived 
+by the organization’s 
+management or 
+project stakeholders 
+as reﬂ ecting the 
+organization’s utility 
+function 
+(continued)
+ Table D3. Techniques for Perform Qualitative Risk Analysis (continued)
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+ Analytic Hierarchy 
+Process 
+ Assists in developing 
+• 
+a relative weighting 
+for project objectives 
+that reﬂ ects the 
+organization’s 
+priorities for time, 
+cost, scope and 
+quality for the project 
+ Assists the creation 
+• 
+of an overall project 
+priority list of risks 
+created from the 
+risks’ priority with 
+respect to individual 
+objectives 
+ Organizational 
+• 
+decisions are often 
+made by committees, 
+and individuals may 
+not agree on relative 
+priority among 
+objectives 
+ Difﬁ cult to gather the 
+• 
+information about 
+pair-wise comparison 
+of the objectives 
+from high-level 
+management 
+ Expert facilitator in 
+• 
+the process 
+ Agreement by 
+• 
+management that it 
+is useful to develop 
+a consistent set of 
+priorities among 
+objectives 
+ Use of proper method 
+• 
+or available AHP 
+software 
+ Root-Cause Analysis
+→  see Chapter 5 
+ D.3.1.1 Estimating Techniques Applied to Probability and Impact 
+ The probability of a risk occurring can be speciﬁ ed in several different ways. One common way is to assign 
+levels of risk probability by ranges of probability. One beneﬁ t of this approach is that the subject matter experts 
+only need to assess a risk’s probability within a range rather than as a speciﬁ c value. An example, assuming 
+that a 5×5 Probability and Impact Matrix is desired, is shown in Figure D11 where the probability ranges are 
+more tightly deﬁ ned at low levels of probability. 
+ Examples of impact level deﬁ nitions are very project-speciﬁ c. The values used to specify the level of impact 
+from very low to very high (if a 5×5 matrix is being used) should be: 
+  Higher impact, for threats or opportunities, as they move from very low to very high for a speciﬁ c 
+• 
+objective 
+  Levels are deﬁ ned by the organization as causing the same amount of pain or gain to the project for 
+• 
+each level across objectives 
+  If a risk’s possible impact is uncertain and could be assigned to more than one level of impact (e.g. 
+• 
+from moderate to high) the analyst may choose to assign the risk to the impact level that represents 
+the expected or average impact. Alternatively, the risk may be ﬂ agged for extra analysis in order to 
+reduce the range of uncertainty to ﬁ t within a single range. 
+ An example of impact level deﬁ nitions is shown in Figure D11. These deﬁ nitions should be tailored or scaled 
+by stakeholders to the speciﬁ c project. The deﬁ nitions, appropriately tailored to the project, can be used for 
+opportunities and threats.
+ Table D3. Techniques for Perform Qualitative Risk Analysis (continued)
+
+
+Figure 12-11: Probability and Impact on Project Objectives
+
+This image shows a table that represents how different levels of probability (VHI, HI, MED, LO, VLO, NIL) impact time, cost, and quality in a project.
+
+
+Figure 12-12: Probability and Impact Risk Ranking
+
+This matrix ranks the impact of various levels of probability (VHI, HI, MOD, LOW, VLOW) on threats and opportunities.
+
+D
+  
+ Figure D11. Example of Definitions for Levels of Probability and Impact on Four Specific Objectives 
+Used to Evaluate Individual Risks. 
+ Note—Opportunities are to be treated as representing a positive saving in time or cost, or increased 
+functionality. For threats, each impact scale is interpreted negatively, i.e. time delays, increased cost, or 
+reduced functionality. 
+  D.3.1.2 
+Probability and Impact Matrix 
+ Organizations typically assess a risk’s priority on an objective from the combination of probability of 
+occurrence and impact on that project objective, using deﬁ nitions such as those shown in Figure D11. Risks 
+are then placed on a probability and impact (P-I) matrix, such as one shown below. This matrix includes both 
+threats and opportunities. 
+ Figure D12. Example of Probability-Impact Matrix Used to Sort Risks (Threats and Opportunities) into 
+High Risk (H), Moderate Risk (M) and Low Risk (L) Classes 
+
+
+Figure 12-13: Preference Factors and Matrix
+
+This image includes a table showing how preference factors are rated and calculated using a matrix. The categories include cost, time, scope, and quality.
+
+D
+ D.3.1.3 Analytic Hierarchy Process (AHP) 
+ AHP is a method to calibrate preferences for achieving the different objectives of a project. Do they prefer 
+to achieve time more than cost? Is quality more important than scope? What is the relative weighting of the 
+project’s objectives in terms of their priority to the stakeholders or to management? The results are weights 
+(summing to 100%) that reﬂ ect the relative priority of each objective. This prioritization can be important in 
+determining how trade-offs affecting different objectives (e.g., Should we reduce scope to ﬁ nish on time?) 
+will be decided. It can also be used to create an overall project risk priority list from risks that have been 
+assessed on their implications for individual objectives. Specialized software implementing AHP is available. A 
+spreadsheet implementation is shown below. 
+ Figure D13. Example of Analytic Hierarchy Process Computations to Determine the Relative Weighting 
+of Four Project Objectives 
+
+D
+ D.4  Techniques, Examples and Templates for Perform Quantitative Risk 
+Analysis (Chapter 7) 
+ Perform Quantitative Risk Analysis seeks to determine the overall risk to project objectives when all risks 
+potentially operate simultaneously on the project. It provides answers to several questions: 
+  How likely is the project to complete on the schedule date or earlier? How likely is the project actual cost 
+• 
+to be the budgeted cost or less? How reliable will the product be that the project produces? What is the 
+best decision to make in the face of uncertain results? 
+  How much contingency in time and cost is needed to provide the organization with its desired degree of 
+• 
+conﬁ dence in the results? How should the design of the product or system be changed most economically 
+to increase its reliability? 
+ What are the individual risks that seem to be the most important in determining the overall project risk? 
+• 
+ D.4.1 Techniques for Perform Quantitative Risk Analysis 
+ Examples of techniques for Perform Quantitative Risk Analysis are found shown in Table D4 and details are 
+given in D.4.1.1 through D.4.1.5 
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs For effective 
+application 
+ Decision Tree Analysis 
+ Causes the 
+• 
+organization to 
+structure the costs 
+and beneﬁ ts of 
+decisions when 
+the results are 
+determined in part by 
+uncertainty and risk 
+ Solution of the 
+• 
+decision tree helps 
+select the decision 
+that provides the 
+highest Expected 
+Monetary Value or 
+expected utility to the 
+organization 
+ It is sometimes 
+• 
+difﬁ cult to create the 
+decision structure 
+ Probabilities of 
+• 
+occurrences can be 
+difﬁ cult to quantify 
+in the absence of 
+historical data 
+The best decision may 
+• 
+change with relatively 
+plausible changes in 
+the input data, meaning 
+that the answer may 
+not be stable
+The organization may 
+• 
+not make decisions 
+based on a linear 
+Expected Monetary 
+Value basis but rather 
+on a non-linear utility 
+function; utility functions 
+are difﬁ cult to specify
+ Careful structuring of 
+• 
+the decision tree. All 
+alternative decisions 
+that are materially 
+different should be 
+considered; decision 
+trees should be 
+speciﬁ ed completely 
+ Access to high-quality 
+• 
+data about probability, 
+cost and reward for 
+the decisions and 
+events speciﬁ ed using 
+historical information 
+or judgment of 
+experts 
+Use of a utility 
+• 
+function that has 
+been validated with 
+the organization’s 
+decision makers
+(continued)
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+The organization may 
+• 
+not make decisions 
+based on a linear 
+Expected Monetary 
+Value basis but rather 
+on a non-linear 
+utility function. Utility 
+functions are difﬁ cult 
+to specify
+Decision tree analysis 
+• 
+of complicated 
+situations requires 
+specialized (though 
+available) software
+There may be some 
+• 
+resistance to using 
+technical approaches 
+to decision-making
+Availability and 
+• 
+understanding of the 
+specialized software 
+needed to structure 
+and solve the 
+decision tree
+Expected Monetary Value 
+(EMV)
+EMV allows the user 
+• 
+to calculate the 
+weighted average 
+(expected) value of an 
+event that includes 
+uncertain outcomes
+It is well-suited to 
+• 
+Decision Tree Analysis
+EMV incorporates 
+• 
+both the probability 
+and impact of the 
+uncertain events
+EMV is a simple 
+• 
+calculation that 
+does not require 
+specialized software
+Assessment of 
+• 
+probability of risky 
+events’ occurring and 
+of their impact can be 
+difﬁ cult to make
+EMV provides only 
+• 
+the expected value 
+of uncertain events; 
+risk decisions 
+often require more 
+information than EMV 
+can provide
+EMV is sometimes 
+• 
+used in situations 
+where Monte Carlo 
+simulation would be 
+more appropriate and 
+provide additional 
+information about risk
+Identiﬁ cation of all 
+• 
+possible events that 
+need to be included in 
+the EMV calculation
+Access to historical 
+• 
+data or expert 
+opinions on the 
+values of probability 
+and impact that 
+are needed for the 
+calculation of EMV
+Understanding of the 
+• 
+difference between 
+EMV and the output 
+of simulation tools 
+such as Monte Carlo 
+analysis
+FMEA/Fault Tree Analysis
+→ see Chapter 5
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs For Effective 
+Application 
+ Monte Carlo Simulation 
+Used primarily for 
+• 
+project schedule and 
+cost risk analysis in 
+strategic decisions
+Allows all speciﬁ ed 
+• 
+risks to vary 
+simultaneously
+Calculates 
+• 
+quantitative estimates 
+of overall project risk; 
+reﬂ ects the reality 
+that several risks may 
+occur together on the 
+project
+Provides answers 
+• 
+to questions such 
+as (1) How likely is 
+the base plan to be 
+successful? (2) How 
+much contingency 
+in time and cost do 
+we need to achieve 
+our desired level of 
+conﬁ dence? 
+(3) Which activities 
+are important in 
+determining the 
+overall project risk?
+Schedules are 
+• 
+not simple and 
+often cannot be 
+used in simulation 
+without significant 
+de-bugging by an 
+expert scheduler
+The quality of the 
+• 
+input data depends 
+heavily on the expert 
+judgment and the 
+effort and expertise of 
+the risk analyst
+Simulation is 
+• 
+sometimes resisted 
+by management as 
+being unnecessary 
+or too sophisticated 
+compared to 
+traditional project 
+management tools
+Monte Carlo 
+• 
+simulation requires 
+specialized software 
+which must be 
+acquired and learned, 
+causing a barrier to 
+its use
+Will produce 
+• 
+unrealistic results 
+unless input data 
+include both threats 
+and opportunities
+Creation of a good 
+• 
+project model. Typical 
+models include the 
+cost estimate and the 
+schedule
+Use summary-level 
+• 
+models such as 
+project schedules and 
+cost estimates
+Access to high-
+• 
+quality data on risks 
+including the risk’s 
+impact on project 
+elements, uncertain 
+activity durations 
+and uncertain 
+cost elements; the 
+credibility depends on 
+the quality of the data 
+collected
+Use of correct 
+• 
+simulation tools
+Post-project reviews/
+Lessons Learned/
+Historical Information
+→ see Chapter 5
+System Dynamics
+→ see Chapter 5
+
+
+Figure 12-14: Technology Decision Path
+
+This decision tree diagram shows how available technologies, potential problems, and solutions (Fixit) affect path values in a technology decision process.
+
+D
+ D.4.1.1 Decision Tree Analysis 
+ Decision tree analysis is usually performed using specialized, but widely available software. The software 
+allows the user to specify the structure of the decision with decision nodes, chance nodes, costs, beneﬁ ts, and 
+probabilities. The user can also evaluate the different decisions using linear utility functions based on Expected 
+Monetary Value or on non-linear utility functions of various shapes. An example is shown below where: 
+ The negative numbers represent outﬂ ows or investments (e.g. COTS) 
+• 
+ The percentages represent probabilities of the event occurring (e.g., Major Problems) 
+• 
+ The positive numbers represent rewards or values (e.g., after “Fix the Problem”) 
+• 
+ “True” indicates the decision option taken from the square decision node, whereas “false” 
+• 
+indicates the decision option not taken 
+ 
+ Figure D14. Example of a Decision Tree for Choosing between an Experimental Technology vs. 
+Commercial Off the Shelf (COTS) Technology
+Source: Precision Tree from Palisade Corporation 
+  D.4.1.2 Expected Monetary Value 
+ Expected Monetary Value (EMV) is a simple calculation of a value such as weighted average or expected cost 
+or beneﬁ t when the outcomes are uncertain. All reasonable alternative outcomes are identiﬁ ed. Their probabilities 
+of occurring (summing to 100%) and their values are estimated. The EMV calculation is made for the entire event 
+by weighting the individual possible outcomes by their probabilities of occurring, as shown in Figure D15. 
+   D.4.1.3 Monte Carlo Simulation 
+ Monte Carlo simulation is a detailed, computer-intensive simulation approach to determining the value and 
+probability of possible outcomes of a project objective such as a project schedule (e.g., the completion date) or 
+cost estimate (e.g., the total cost). It computes the schedule or cost estimate many times using inputs drawn at 
+
+
+Figure 12-15: One-Path Schedule Finish Date Distribution
+
+This histogram and cumulative frequency plot represent a project schedule distribution, showing the probability of finishing on a given date.
+
+
+Figure 12-16: Expected Monetary Value (EMV) Calculation
+
+This table shows an EMV calculation for a business strategy, considering uncertain market demand and associated probabilities.
+
+D
+random from ranges speciﬁ ed with probability distribution functions for schedule activity durations or cost line-
+items. The solutions using these different input values are used to build a histogram of possible project outcomes 
+and their relative probability, and cumulative probability from which to compute desired contingency reserves of 
+time or cost. Additional results include the relative importance of each input in determining the overall project cost 
+and schedule. Examples of the output of schedule and cost risk results are shown in Figures D16 and D17. 
+ D.4.1.4 Monte Carlo Analysis of Finish Dates in Quantitative Schedule Risk Analysis 
+ 
+ Figure D16. Example Histogram from Monte Carlo Simulation of a Project Schedule 
+ Source: Pertmaster v. 8.0 Primavera Pertmaster 
+ Figure D15. Example of an Expected Monetary Value Calculation when there are Three Uncertain 
+Product Demand Scenarios 
+
+
+Figure 12-17: Total Project Cost Distribution
+
+This histogram shows the distribution of total project cost based on 10,000 trials, providing forecast values for project cost certainty.
+
+D
+  D.4.1.5 Monte Carlo Analysis of Project Cost at Completion in Quantitative Cost Risk Analysis 
+ 
+ Figure D17. Example Histogram from Monte Carlo Simulation of a Project Cost Estimate 
+ Source: Crystal Ball v. 7.3.8 from Oracle Hyperion (Decisioneering) 
+ D.5  Techniques, Examples, and Templates for Plan Risk Responses 
+(Chapter 8) 
+ Plan Risk Responses develops the set of actions required to take into account the project’s risks and 
+their characteristics, and integrates them into the corresponding project management plan. The resultant plan 
+should satisfy the risk appetites and attitudes of the key stakeholders. 
+ D.5.1 Techniques for Plan Risk Response 
+ Techniques for Plan Risk Responses are given in Table D5 and Sections D.5.1.1 through D.5.1.5. 
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFS for Effective 
+Application 
+Brainstorming
+→ see Chapter 5
+Check Lists
+→ see Chapter 5
+Contingency planning
+Ensures that actions 
+• 
+are available to address 
+signiﬁ cant events 
+before their occurrence
+Can give a false feeling 
+• 
+of conﬁ dence – as 
+if the risk had been 
+avoided
+The trigger conditions 
+• 
+must be clearly 
+deﬁ ned and tracked
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+Allows rapid and 
+• 
+focussed response
+Improves image of 
+• 
+professionalism of 
+the way in which the 
+project is managed
+The plans need to be 
+• 
+validated periodically
+Willingness of the 
+• 
+organization to 
+execute the plan and 
+provide the budget 
+and resources when 
+the trigger condition 
+occurs
+Contingency reserve 
+estimation
+Provides a rationale 
+• 
+for reserves
+Basis for constructive 
+• 
+discussion with 
+sponsor
+Makes the reserve 
+• 
+visible and therefore 
+liable to be reduced 
+arbitrarily
+Policy for reserve 
+• 
+management agreed 
+with sponsor and 
+senior management
+Critical Chain Project 
+Management (CCPM)
+Along with many other 
+• 
+approaches, insists 
+on resolving resource 
+availability issues 
+when developing the 
+schedule
+Addresses schedule 
+• 
+risk by the addition 
+of “feeding buffers” 
+to absorb statistical 
+variations on the 
+durations of non-critical 
+path activities to reduce 
+their contribution to 
+schedule risk
+Partly mitigates 
+• 
+ﬁ nancial risk by 
+controlling the amount 
+of “work in process”
+“Buffer penetration” 
+• 
+thresholds can be used 
+as trigger condition 
+for speciﬁ c response 
+actions 
+Special software is 
+• 
+available for creating 
+and managing the 
+buffers
+Feeding buffers can 
+• 
+deal with predictable 
+common cause 
+variation, but may be 
+inadequate to cater 
+for special causes
+“Indicative” start 
+• 
+and end dates can 
+disturb conventional 
+management 
+expectations, 
+and may cause 
+problems for 
+setting intermediate 
+milestones
+Assumption that base 
+• 
+estimates represent 
+50% conﬁ dence 
+levels (this weakness 
+is not followed in all 
+variants of this class 
+of tool)
+Not all project 
+• 
+schedules are fully 
+resourced
+Requires a fully 
+• 
+resourced project 
+schedule
+Understanding of, 
+• 
+and acceptance 
+by management 
+and project team 
+members that the 
+activity dates are 
+indicative rather than 
+deﬁ nitive promises, 
+being generally set 
+to provide a 50% 
+conﬁ dence level
+Equitable sharing 
+• 
+of the buffers by 
+all team members 
+concerned
+(continued)
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+Decision Tree Analysis
+→ see Chapter 7
+Allows calculation 
+• 
+of the expected 
+monetary values of 
+various response 
+options as well as the 
+value of the outcomes 
+in the worst case and 
+the best case
+Delphi Technique
+→ see Chapter 5
+Involves selected 
+• 
+experts in the process
+Expected Monetary 
+Value (EMV)
+→ see Chapter 7
+Provides an estimate 
+• 
+of the potential 
+beneﬁ t of a risk 
+response
+Force Field Analysis
+→ see Chapter 5
+The diagram can 
+• 
+suggest where best to 
+apply the responses
+Industry knowledge base
+→ see Chapter 5
+Some risks have 
+• 
+standard responses
+Interviews
+→ see Chapter 5
+Experienced 
+• 
+practitioners can 
+provide both new 
+ideas and act as 
+“devil’s advocate” for 
+potential responses
+Nominal Group 
+Technique
+→ see Chapter 5
+Useful as a creativity 
+• 
+technique for 
+generating novel 
+responses
+Multi-criterion selection 
+techniques
+Provide a means 
+• 
+of selecting the 
+responses that best 
+supports the full set 
+of project objectives
+Can give counter-
+• 
+intuitive results
+Needs an agreed set 
+• 
+of weighted project 
+success criteria
+Post-project reviews/
+Lessons Learned/
+Historical Information
+→ see Chapter 5
+Leverages previous 
+• 
+experience
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+Prompt Lists
+→ see Chapter 5
+Stimulates creativity
+• 
+Quantitative Risk 
+Analysis
+→ see Chapter 7
+Provides a means 
+• 
+of evaluating the 
+potential effect 
+of the response 
+plans on the overall 
+project risk
+Can be too involved 
+• 
+or complex for the 
+beneﬁ t envisaged
+Prior effective 
+• 
+qualitative analysis
+Root-Cause Analysis
+→ see Chapter 5
+Allows the 
+• 
+organization 
+to identify and 
+to address the 
+fundamental 
+causes of risks 
+for efﬁ cient and 
+effective responses; 
+responding at 
+the level of the 
+root cause may 
+effectively address 
+multiple risks
+Can provide a 
+• 
+means of identifying 
+symptoms for use 
+as trigger conditions 
+for contingent 
+responses
+Scenario Analysis
+Provides view of the 
+• 
+potential effect of 
+the relevant risk and 
+the corresponding 
+response strategy
+Forces the 
+• 
+participants to 
+analyze the effect of 
+any strategy
+Helps to identify 
+• 
+secondary risks
+Adds to the list of 
+• 
+assumptions
+Can be time 
+• 
+consuming
+All participants need 
+• 
+a good understanding 
+of the project plans
+ 
+
+
+Figure 12-18: Option Comparison Table
+
+This table compares two options (A and B) based on weighted criteria such as price, functionality, ease of use, and lead time, with scores calculated for each option.
+
+D
+ D.5.1.1 Contingency Planning 
+ For speciﬁ c (normally high-impact) risks, the risk owner may choose to assemble a team to develop a 
+response, as if the risk had genuinely happened. The corresponding plan, with the supporting information, 
+should then be documented and approved at project management or sponsor level. This approval must include 
+authorization to deploy the corresponding resources if the predeﬁ ned trigger conditions arise. No templates or 
+examples are presented. 
+ D.5.1.2 Contingency Reserve Estimation 
+ All of the conditional response plans, as well any of the residual risks will, if they occur, have an effect on the 
+schedule and/or budget and/or performance objectives of the project. An amount (time and cost) needs to be 
+set aside to allow for these eventualities. This amount is made up of two components: those to cover speciﬁ c, 
+approved conditional responses (e.g. contingency plans), and those to address unspeciﬁ ed or passively accepted 
+risks. Quantitative methods (see chapter 7) can be used to determine the amounts that should be set aside (e.g. 
+decision trees for conditional responses, simulation for the set of unspeciﬁ ed risks). These reserves are tracked 
+and managed in Monitor and Control Risks (chapter 9). No templates or examples are presented. 
+ D.5.1.3 Multi-Criteria Selection Techniques 
+ This is an adaptation of the Perform Qualitative Risk Analysis Process (chapter 6) based on selection criteria. 
+The example below shows the use of a spreadsheet to calculate the weighted scores of two options, based on 
+a predeﬁ ned set of prioritized criteria: “points” is the product of “weight” by “rating.” 
+ 
+ Figure D18. Example of Comparing Options by their Ratings Along Four Prioritized Criteria 
+ D.5.1.4 Scenario Analysis 
+ Scenario analysis for risk response planning involves deﬁ ning several plausible alternative scenarios (e.g. 
+no change and all goes to plan, disaster occurs, utopia etc). The different scenarios may require different risk 
+responses that can be described and evaluated for their cost and effectiveness. If the organization can choose 
+between scenarios, the alternatives including the responses can be compared. If the scenarios are out of the 
+control of the organization, the scenario analysis can lead to effective and necessary contingency planning. 
+
+
+Figure 12-19: Gantt Chart for Project Tasks
+
+This Gantt chart shows the schedule of project tasks, including their duration and dependencies over a specific period in December.
+
+D
+ No template is offered for this technique. 
+ D.5.1.5 Critical Chain Project Management 
+ A simple critical chain network is shown in Figure D19. 
+ 
+ Figure D19. Simple Critical Chain Network 
+ D.6  Techniques, Examples and Templates for Monitor and Control Risks 
+(Chapter 9) 
+ Monitor and Control Risks provides the assurance that risk responses are being applied, veriﬁ es whether 
+they are effective and as necessary initiates corrective actions. 
+ D.6.1 Techniques for Monitor and Control Risks Process 
+ Techniques for Monitor and Control Risks are given in Table D6 and D.6.1.1 through D.6.1.6. 
+ TABLE D6. Monitor and Control Risks Example 
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+Critical Chain Project 
+Management (CCPM)
+→ see Chapter 8
+Use of buffer 
+• 
+penetration to trigger 
+actions such as 
+adjusting the relative 
+priority of tasks
+(continued)
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+Reserve Analysis
+Provides a means of 
+• 
+tracking spend and 
+releasing contingency 
+amounts as risks 
+expire; can be applied 
+to schedule reserves 
+in the same way
+Gives early warning of 
+• 
+need to communicate 
+with sponsor
+Could lead to 
+• 
+unwarranted focus on 
+cost dimension
+Attention to overall 
+• 
+measure of reserve 
+depletion may hide 
+detailed risks
+Prior detailed reserve 
+• 
+planning
+Accurate sizing of 
+• 
+the contingency 
+reserve of time or 
+cost relative to the 
+risk to overall project 
+completion date and 
+budget
+Risk Audits
+Provide a formal 
+• 
+assessment of the 
+compliance with the 
+approach speciﬁ ed in 
+the risk management 
+plan
+Can be disruptive to 
+• 
+the project and taken 
+as too judgemental to 
+the project team
+Well-speciﬁ ed risk 
+• 
+management plan
+Sensitivity to the 
+• 
+burden it places on 
+the project team
+Risk Reassessment
+Forces a review of 
+• 
+the project risks 
+when it becomes 
+necessary so that the 
+risk register remains 
+up-to-date
+Takes time and effort
+• 
+Well-maintained 
+• 
+project and risk 
+documentation 
+scheme
+Status Meetings
+Provide a means of 
+• 
+verifying information 
+about the status 
+of risks (active, 
+occurred, retired) and 
+maintaining team 
+understanding
+Can seem 
+• 
+unnecessary to some 
+participants
+Good meeting 
+• 
+preparation and 
+discipline
+Trend Analysis
+Provides an indication 
+• 
+of the effectiveness of 
+earlier responses
+Can provide trigger 
+• 
+conditions for 
+responses
+Requires 
+• 
+understanding of 
+signiﬁ cant vs. non-
+signiﬁ cant variation
+Regular reporting and 
+• 
+analysis of the critical 
+values
+
+D
+ Technique 
+ Strengths 
+ Weaknesses 
+ CSFs for Effective 
+Application 
+Variance Analysis
+Allows comparison 
+• 
+between forecast and 
+actual risk impacts
+Can provide trigger 
+• 
+conditions for 
+responses
+Provides data 
+• 
+for Earned Value 
+Analysis which can 
+be compared to 
+quantitative risk 
+analysis results
+Does not show 
+• 
+relationship with 
+earlier data
+The values can be 
+• 
+taken out of context
+Realistic prior 
+• 
+deﬁ nitions of 
+thresholds for 
+“signiﬁ cant variance”
+ D.6.1.1 Reserve Analysis 
+ An analytical technique to determine the essential features and relationships of components in the 
+project management plan to establish a reserve for the schedule duration, budget, estimated cost, or 
+funds for a project. Tracking the state of the reserve through project execution will provide summary 
+information as to the evolution of the status of the corresponding risks. This information can be useful 
+when reporting up the organization to those responsible for several projects. In addition, once a 
+corresponding risk occurs or ceases to be current (i.e. when it can no longer impact the project), the 
+corresponding reserve needs to be reviewed in order to assess whether it still provides the agreed level 
+of confidence. 
+ Time buffers can be used in two different ways: 
+ To provide for accepted schedule risks, as described above or 
+• 
+ As a scheduling-related technique in critical chain project management (CCPM). 
+• 
+ In contrast with the contingency reserve for identified risks, the buffers in CCPM provide a shared 
+mechanism for accommodating the natural variability of activity durations over a sequence (or chain) of 
+activities. Tracking the rate at which each such buffer is used during project execution provides valuable 
+information at a given point in time as to the level of schedule risk along that chain, and is used in 
+CCPM for adapting the priority or management focus for additional analysis and as necessary triggering 
+further risk management activities. 
+ No templates or examples are presented. 
+
+
+Figure 12-20: PDCA Cycle for Risk Management
+
+This diagram shows the Plan-Do-Check-Act (PDCA) cycle applied to risk management, including steps such as integrating risk-related actions into the project plan and monitoring risks.
+
+D
+ D.6.1.2 Risk Audits 
+ Risk audits are carried out in order to evaluate: 
+ Are the risk management rules being carried out as speciﬁ ed ?
+• 
+ Are the risk management rules adequate for controlling the project ?
+• 
+ No templates or examples are presented. 
+ D.6.1.3 Risk Reassessment 
+ The objective of risk reassessment is to ensure that the full risk management cycle is repeated as required 
+to ensure effective control. See Figure D20. 
+ 
+ Figure D20. The Risk Reassessment Process 
+ D.6.1.4 Status Meetings 
+ Risks can and should be on the agenda at all project reviews. Typically, the agenda items should cover the 
+following: 
+ Top priority risks at present. 
+• 
+ Are there any changes? 
+ 
+○
+ Risks or trigger conditions that have occurred .
+• 
+ What is the status of the actions? 
+ 
+○
+
+D
+ Risks responded to in the last period .
+• 
+ Effectiveness of actions taken .
+ 
+○
+ Are there any additional actions required? 
+ 
+○
+ Risks closed in the last period .
+• 
+ Impact on the plans .
+ 
+○
+ Lessons to be added to the Organizational Process Assets .
+• 
+ D.6.1.5 Trend Analysis 
+ The evolution of the variance values over time should be analyzed in order to evaluate how the risk proﬁ le 
+is changing, whether previous actions are having the expected effect and whether additional actions are 
+required. The Earned Value formulae of the “to complete performance index” can be used to assess changes 
+with respect to time and cost. No templates or examples are presented. 
+ D.6.1.6 Variance Analysis 
+ The formulae in Earned Value Analysis (CV, SV, CPI, SPI) can be used to set thresholds for action, and to 
+indicate when the risk process may be ineffective. Earned value management systems (EVMS) use variance 
+from plan as the basis of forecasts or extrapolations to the cost at completion. Projections made using EVMS 
+have been shown by experience to be reliable early in the project, e.g., 20% into the execution. No templates 
+or examples are presented. 
+
+
+

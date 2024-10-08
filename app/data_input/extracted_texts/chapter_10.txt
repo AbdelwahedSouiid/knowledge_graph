@@ -1,0 +1,48 @@
+A
+ GUIDELINES FOR A PMI PRACTICE STANDARD 
+ A.1  Introduction 
+ A PMI practice standard is characterized as follows: 
+  Each practice standard provides guidelines on the mechanics (e.g., nuts and bolts, basics, 
+• 
+fundamentals, step-by-step usage guide, how it operates, how to do it) of some signiﬁ cant process 
+(input, tool, technique, or output) that is relevant to a project manager. 
+  A practice standard does not necessarily mirror the life-cycle phases of many projects; however, an 
+• 
+individual practice standard may be applicable to the completion of one or more phases within a 
+project. 
+  A practice standard does not necessarily mirror the Knowledge Areas within  
+• 
+A Guide to the Project 
+Management Body of Knowledge ( PMBOK ®  Guide –Fourth Edition), although an individual practice 
+standard will provide sufﬁ cient detail and background for one or more of the inputs, tools and 
+techniques, and/or outputs. Therefore, practice standards are not required to use the name of any 
+Knowledge Area. 
+  Each practice standard should include information on what the signiﬁ cant process is and does, 
+• 
+why it is signiﬁ cant, how to perform it, when it should be performed, and, if necessary for further 
+clariﬁ cation, who should perform it. 
+  Each practice standard should include information that is accepted and applicable for most projects 
+• 
+most of the time within the project management community. Processes that are generally restricted or 
+applicable to one industry, country, or companion profession (i.e., an  application area ) may be included 
+as an appendix for informational purposes, rather than as part of the practice standard. With strong 
+support and evidence, an application area-speciﬁ c process may be considered as an extension practice 
+standard, in the same manner as extensions to the  PMBOK ®  Guide –Fourth Edition are considered. 
+  Each practice standard will beneﬁ t from the inclusion of examples and templates. It is best when an 
+• 
+example or template includes a discussion of its strengths and weaknesses. A background description 
+may be necessary to put this discussion in the appropriate context. The examples should be aligned with 
+the relevant information in the standard or its appendix and placed in proximity to that information. 
+ All practice standards shall be written in the same general style and format. 
+• 
+ E ach practice standard project will be aligned with or reference other practice standards, as needed. 
+• 
+ Each practice standard will be consistent with the  
+• 
+PMBOK ®  Guide –Fourth Edition. 
+ Each practice standard is intended to be more prescriptive than the  
+• 
+PMBOK ®  Guide –Fourth Edition.  
+
+
+

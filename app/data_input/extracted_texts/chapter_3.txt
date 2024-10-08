@@ -1,0 +1,187 @@
+ INTRODUCTION TO PROJECT RISK MANAGEMENT PROCESSES 
+ 3.1 Project Risk Management and Project Management 
+ All projects are uncertain. Uncertainty is inevitable since projects are unique and temporary undertakings 
+based on assumptions and constraints, delivering project results to multiple stakeholders with different 
+requirements. Project management can be seen as an attempt to control this uncertain environment, through 
+the use of structured and disciplined techniques such as estimating, planning, cost control, task allocation, 
+earned value analysis, monitoring and review meetings, etc. Each of these elements of project management 
+has a role in deﬁ ning or controlling the uncertainty which is inherent in all projects. 
+ Project Risk Management provides an approach by which uncertainty can be understood, assessed, and 
+managed within projects. As such it forms an integral part of project management, and effective Project Risk 
+Management is a critical success factor for project success. 
+ For project management to be fully effective, however, it is important that Project Risk Management is not 
+viewed as an optional process or performed as an additional overhead task. Since many elements of project 
+management address inherent uncertainty, the interface between structured Project Risk Management and the 
+other processes of project management needs to be clear. The outputs of Project Risk Management should be 
+taken into account within many of the project management processes. They can, for example, impact: 
+ Estimating resource requirements, cost, or duration; 
+• 
+ Assessing the impact of proposed scope changes; 
+• 
+ Planning or re-planning the forward strategy of the project; 
+• 
+ Allocating resources to tasks; and 
+• 
+ Reporting progress to stakeholders. 
+• 
+ None of these actions can be performed properly without a clear view of the risk involved, as determined 
+during the Project Risk Management process. In other words, project management process effectiveness is 
+increased by using the information and results from Project Risk Management. 
+ In addition, effective Project Risk Management requires input from other project management processes. 
+Outputs such as the work breakdown structure (WBS), estimates, the project schedule, assumptions list, etc. 
+are all important prerequisites for effective Project Risk Management. 
+
+ 3.2 Project Risk Management Processes 
+ The deﬁ ned steps of Project Risk Management describe a structured approach for understanding and 
+managing risk on a project. This chapter outlines the steps required for effective Project Risk Management. 
+Each step is described in more detail in subsequent chapters. 
+ As previously deﬁ ned, project risk is an uncertain event or condition that, if it occurs, has a positive or 
+negative effect on a project’s objectives. From this deﬁ nition, it is clear that risks only exist in relation to 
+objectives. It is therefore essential at the start of the Project Risk Management process to clearly deﬁ ne the 
+objectives. It is also clear that different projects are exposed to different levels of risk, so each step in the 
+Project Risk Management process should be scalable to meet the varying degrees of risk. Scalable elements 
+of the process include: 
+ Available resources, 
+• 
+ Methodology and processes used, 
+• 
+ Tools and techniques used, 
+• 
+ Supporting infrastructure, 
+• 
+ Review and update frequency, and 
+• 
+ Reporting requirements. 
+• 
+ As a precondition for a successful Project Risk Management implementation, it is important to have a clear 
+understanding of the risk thresholds that deﬁ ne the key stakeholders’ views on acceptable levels of risk, as 
+well as a framework against which identiﬁ ed risks can be assessed. 
+ As a result, the Project Risk Management process always starts with an initiation step. This is required in 
+order to ensure a common understanding and agreement of the team and other stakeholders on the approach 
+and parameters that will be applied in managing risk in this project, as well as the scope and objectives of the 
+Project Risk Management process itself. Project Risk Management activities, resources, and attention should 
+be appropriate to the project since different projects warrant different levels of risk management application. 
+The main actions to provide the required tailoring are as follows: 
+ Deﬁ ne those objectives against which risks will be identiﬁ ed, 
+• 
+ Deﬁ ne how the elements of the Project Risk Management process will be scaled for this 
+• 
+project, and 
+ Deﬁ ne risk thresholds, tolerances, and the assessment framework. 
+• 
+ The outputs from this initial step should be documented, communicated, and then reviewed by the 
+stakeholders to ensure a common understanding of the scope and objectives for the Project Risk Management 
+process. The document should be formally approved at a senior level. 
+
+ Once the Project Risk Management scope and objectives are agreed upon, it is possible to start identifying 
+risks, being careful to distinguish genuine risks from non-risks (such as causes, effects, problems, issues etc.). 
+A variety of risk identiﬁ cation techniques is available, each with its own strengths and weaknesses. One or 
+more techniques should be selected as appropriate for meeting the needs of the speciﬁ c project. The aim is 
+to expose and document all knowable risks, recognizing that some risks will be inherently unknowable and 
+others will emerge later in the project. The emergent nature of risk requires the Project Risk Management 
+process to be iterative, repeating the Identify Risks process in order to ﬁ nd risks which were not evident earlier 
+in the project. Input should be sought from a wide range of project stakeholders when identifying risks, since 
+each will have a different perspective on the risks facing the project. Historical records and project documents 
+should also be reviewed to identify risks for this project. 
+ All identiﬁ ed risks are recorded. Ideally, a risk owner is designated for each identiﬁ ed risk. It is the 
+responsibility of the risk owner to manage the corresponding risk through all of the subsequent Project Risk 
+Management processes. 
+ Following risk identiﬁ cation, it is necessary to evaluate the importance of each risk, in order to prioritize 
+individual risks for further attention, evaluate the level of overall project risk, and determine appropriate 
+responses. Risk evaluation can be performed using qualitative techniques to address individual risks, using 
+quantitative techniques to consider the overall effect of risk on the project outcome, or using both in combination. 
+These two approaches require different types of data, but where both qualitative and quantitative techniques 
+are used, an integrated approach should be adopted. 
+ Qualitative techniques are used to gain a better understanding of individual risks, considering a range 
+of characteristics such as probability of occurrence, degree of impact on project objectives, manageability, 
+timing of possible impacts, relationships with other risks, common causes or effects, etc. Understanding and 
+prioritizing risks is an essential prerequisite to managing them, so qualitative techniques are used on most 
+projects. The outputs from qualitative assessments should be documented and communicated to key project 
+stakeholders and form a basis for determining appropriate responses. 
+ Quantitative techniques provide insights into the combined effect of identiﬁ ed risks on the project outcome. 
+These techniques take into account probabilistic or project-wide effects, such as correlation between risks, 
+interdependency, and feedback loops, thereby indicating the degree of overall risk faced by the project. The 
+result is an indication of the degree of overall risk faced by the project. The results of quantitative analysis 
+should be used to focus the development of appropriate responses, particularly the calculation of required 
+contingency reserve levels, and must be documented and communicated to inform subsequent actions. 
+Quantitative techniques may not be required for all projects to ensure effective management of risk. 
+
+ Once individual risks have been prioritized and the degree of overall project risk exposure is understood, 
+appropriate risk responses should be developed using an iterative process which continues until an optimal 
+set of responses has been developed. A range of possible response strategies exists for both threats and 
+opportunities. The risk owner should select a suitable strategy for each individual risk, based on its characteristics 
+and assessed priority, ensuring that the strategy is achievable, affordable, cost effective, and appropriate. The 
+use of a single strategy that addresses several related risks should be considered whenever possible. The risk 
+owner is responsible for deﬁ ning actions to implement the chosen strategy. These actions may be delegated to 
+action owners as appropriate. The risk owner should monitor actions to determine their effectiveness, and also 
+to identify any secondary risks which may arise because of the implementation of risk responses. In addition 
+to individual risk responses, actions may be taken to respond to overall project risk. All response strategies 
+and actions should be documented and communicated to key project stakeholders and incorporated into the 
+project plan. 
+ It is essential that agreed-upon actions are implemented; otherwise the risk exposure of the project remains 
+unchanged. It is also vital that the Project Risk Management process be repeated at regular intervals throughout 
+the life of the project. This will enable the project team to reevaluate the status of previously identiﬁ ed risks, 
+to identify emergent and secondary risks, and to determine the effectiveness of the Project Risk Management 
+process. 
+ The steps outlined previously form the Project Risk Management process. These are detailed in subsequent 
+chapters, as follows: 
+ 
+• Plan Risk Management (Chapter 4)  — Deﬁ nes the scope and objectives of the Project Risk 
+Management process, and ensures that the risk process is fully integrated into wider project 
+management. 
+ 
+• Identify Risks (Chapter 5) —  Identiﬁ es as many knowable risks as practicable. 
+ 
+• Perform Qualitative Risk Analysis (Chapter 6)  — Evaluates key characteristics of individual risks 
+enabling them to be prioritized for further action. 
+ 
+• Perform Quantitative Risk Analysis (Chapter 7)  — Evaluates the combined effect of risks on the 
+overall project outcome. 
+ 
+• Plan Risk Responses (Chapter 8)  — Determines appropriate response strategies and actions for 
+each individual risk and for overall project risk, and integrates them into a consolidated project 
+management plan. 
+ 
+• Monitor and Control Risks (Chapter 9)  — Implements agreed-upon actions, reviews changes in 
+project risk exposure, identiﬁ es additional risk management actions as required, and assesses the 
+effectiveness of the Project Risk Management process. 
+ Figure 3-1 shows the ﬂ ow of control and information between the various steps within the Project Risk 
+Management process. 
+
+
+Figure 3-1: Project Risk Management Process Flow Diagram
+
+This image illustrates the step-by-step flow of the Project Risk Management process. The flow is represented by arrows connecting each step in the following order:
+
+1. Plan Risk Management (at the top):
+   - This box includes the steps for tailoring the risk management process, identifying risk thresholds, defining risk processes, and creating the risk management plan.
+   - Arrow: An arrow points downward to the next step, Identify Risks.
+
+2. Identify Risks:
+   - This box contains the list of risks and the assignment of risk owners.
+   - Arrow: Two arrows flow downward from this box to two parallel processes:
+     - Perform Qualitative Risk Analysis
+     - Perform Quantitative Risk Analysis (linked directly from Identify Risks)
+
+3. Perform Qualitative Risk Analysis:
+   - This process assesses the probability, impact, and root causes of risks, producing a prioritized list.
+   - Arrow: Points downward toward Perform Quantitative Risk Analysis.
+
+4. Perform Quantitative Risk Analysis:
+   - Uses numerical models to combine outcomes and update the prioritized list.
+   - Arrow: Points downward toward Plan Risk Responses.
+
+5. Plan Risk Responses:
+   - This step involves developing strategies, assigning actions, defining owners and timing, and making updates to the project plan.
+   - Arrow: Points downward toward the final step, Monitor and Control Risks.
+
+6. Monitor and Control Risks:
+   - In this step, the project team monitors the status and trends, prepares reports, and tracks risk exposure trends.
+
+Additional Arrows: 
+- From Monitor and Control Risks, arrows curve back to Identify Risks and Perform Quantitative Risk Analysis, indicating an iterative process where risks are continuously evaluated and controlled throughout the project.
+
+ Figure 3-1. Project Risk Management Process Flow Diagram 
+
+
+

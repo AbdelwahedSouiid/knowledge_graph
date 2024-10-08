@@ -1,0 +1,96 @@
+B
+ EVOLUTION OF PMI’S PRACTICE STANDARD FOR 
+PROJECT RISK MANAGEMENT 
+ B.1 Pre-Project 
+ In early 2005, PMI began exploration for developing the ﬁ rst Practice Standard for Project Risk Management. 
+Focus would be placed on single project risk management for a single project rather than including programs 
+or portfolios of projects, with close coupling to the Project Risk Management section of  A Guide to the Project 
+Management Body of Knowledge  (PMBOK ®  Guide) –  Third Edition. By April 20, 2006, the PMI Standards 
+Members Advisory Group (MAG) approved the following ﬁ nal charter for the standard, with Cynthia A. Berg, 
+PMP, as the Project Manager, and Dr. David Hulett as the Deputy Project Manager. The charter included the 
+following characteristics for the standard: 
+  Provides information on Project Risk Management that includes information that is clear, complete, 
+• 
+relevant, and generally recognized as good practice on most projects most of the time. 
+  Is consistent with the  
+• 
+PMBOK ®  Guide –  Third Edition, expanding but not contradicting, the concepts 
+and techniques related to Project Risk Management, and keeps within the limits and practices of 
+Project Risk Management as described within Chapter 11 of the  PMBOK ®  Guide– Third Edition. 
+  Has been reviewed and updated by the Practice Standard for Project Risk Management 
+• 
+Project Team. 
+  Is written for project management practitioners and other stakeholders of the project management 
+• 
+profession. 
+ Describes the processes that are unique to Project Risk Management. 
+• 
+  Includes in an appendix, examples and templates of speciﬁ c Project Risk Management processes, 
+• 
+tools, and/or techniques addressed in the practice standard, with discussions of their strengths and 
+weaknesses, including background descriptions that put the relative strengths and weaknesses into 
+context. 
+ Uses the  
+• 
+PMBOK ®  Guide –  Third Edition Glossary as the starting point of its glossary, and does not 
+contain contradictions. 
+ Uses a glossary term in the text without deﬁ nition or additional explanation. 
+• 
+ Is aligned with and does not contradict other PMI standards. 
+• 
+  Follows the PMI Style Guide, is written in North American English, translatable to PMI ofﬁ cial 
+• 
+languages, and is sensitive to cultural issues. 
+
+B
+  Can be approved as a PMI standard, which means that in addition to the content being acceptable, 
+• 
+the process for selecting team members and soliciting and responding to comments on the product 
+must be open and inclusive. 
+ B.2 Preliminary Work 
+ In recognition that risk management is not practiced well on many projects, the project team set out to 
+identify practices that are viewed as best practices, as those are understood, and applied in most successfully 
+managed projects most of the time. 
+ The project core team was initially formed in the fall of 2005 and consisted of; Dr. David Hillson PMP, Kik 
+Piney, and Kris Persun. 
+ B.3 Scope Changes 
+ During the time the project was chartered, the  PMBOK ®  Guide –  Fourth Edition was commissioned. As a 
+result, the charter of the Practice Standard for Project Risk Management was expanded to be consistent and 
+non-contradictory with that standard. 
+ B.4 Exposure and Consensus 
+ The standard was submitted as an exposure draft in the winter of 2007, and exposed on 23 March 2008. 
+There were 849 comments. The team’s comment acceptance rate (comments accepted outright, and accepted 
+with modiﬁ cations) was 57%. The PMI Standards Manager submitted the resultant ﬁ nal draft, with the 
+concurrence of the PMI Standards  Program MAG, to the PMI Standards Program Consensus Body for ofﬁ cial 
+ballot on 27 March 2009 . Twenty-eight members of the PMI Standards Program Consensus Body agreed to 
+participate in the ballot of the Practice Standard for Project Risk Management. Those not participating included 
+the PM and Deputy PM for this standard because their participation was considered a conﬂ ict of interest. The 
+balloting period was closed on 25 April 2009 with 23 ballots returned. Consensus Body voting results were 
+as follows: 22 afﬁ rmative and 1 afﬁ rmative with comment. The afﬁ rmative with comment pertained to future 
+revisions of the standard and possible improvements to the comment adjudication process.
+
+C
+ APPENDIX C 
+ CONTRIBUTORS AND REVIEWERS OF THE  PRACTICE STANDARD 
+FOR PROJECT RISK MANAGEMENT 
+ This appendix lists, alphabetically within groupings, those individuals who have contributed to the 
+development and production of the  Practice Standard for Project Risk Management . No simple list or even 
+multiple lists can adequately convey all the contributions of those who have volunteered to develop the  Practice 
+Standard for Project Risk Management . 
+ The Project Management Institute is grateful to all of these individuals for their support and acknowledges 
+their contributions to the project management profession. 
+ C.1  Practice Standard for Project Risk Management Project Core Team 
+ The following individuals served as members, were contributors of text or concepts, and served as leaders 
+within the Project Core Team (PCT): 
+ Cynthia Ann Berg, PhD, PMP Project Manager 
+ David T. Hulett, PhD, Deputy Project Manager 
+ Dr. David Hillson FRSA, FIRM 
+ Kristine Persun, MA, PMP 
+ Crispin “Kik” Piney, BSc, PMP 
+ Kristin L. Vitello, Standards Project Specialist 
+ Nan Wolfslayer, AStd, Standards Compliance Specialist 
+ C.2 Signiﬁ cant Contributors 
+ In addition to the members of the Project Core Team and the Sub-Team Leaders, the following individuals 
+provided signiﬁ cant input or concepts: 
+ Jeannette Horne 
+

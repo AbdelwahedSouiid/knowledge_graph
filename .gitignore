@@ -1,0 +1,23 @@
+# Dossier des environnements virtuels
+myenv/
+
+# Fichiers et dossiers de compilations Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Fichiers de logs
+*.log
+
+# Fichiers d'environnement
+.env
+
+# Cache et fichiers temporaires
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Configuration d'IDE
+.vscode/
+

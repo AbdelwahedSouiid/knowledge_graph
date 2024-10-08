@@ -1,0 +1,299 @@
+ PLAN RISK RESPONSES 
+ The Plan Risk Responses process determines effective response actions that are appropriate to the priority 
+of the individual risks and to the overall project risk. It takes into account the stakeholders’ risk attitudes and 
+the conventions speciﬁ ed in the Risk Management Plan, in addition to any constraints and assumptions that 
+were determined when the risks were identiﬁ ed and analyzed. 
+ 8.1 Purpose and Objectives of the Plan Risk Responses Process 
+ The objective of the Plan Risk Responses process is to determine the set of actions which most enhance the 
+chances of project success while complying with applicable organizational and project constraints. 
+ Once risks have been identiﬁ ed, analyzed, and prioritized, plans should be developed for addressing every 
+risk the project team considers to be sufﬁ ciently important, either because of the threat it poses to the project 
+objectives or the opportunity it offers. The planning entails agreeing upon the actions to be taken and the 
+potential changes to budget, schedule, resources, and scope which these actions might cause. 
+ Contingent risk response actions need to be executed at the optimum time. For this reason, the response 
+speciﬁ cation for each such risk should include a description of any corresponding trigger conditions. 
+ The responsibility for monitoring the project conditions and implementing the corresponding actions should 
+be clearly assigned. Every risk should have been allocated to a risk owner as part of the Identify Risks process, 
+and each of the corresponding risk responses should now be assigned to a speciﬁ c risk action owner. The risk 
+owner is responsible for ensuring that the risk response is effective and for planning additional risk responses 
+if required, whereas the risk action owner is responsible for ensuring that the agreed-upon risk responses are 
+carried out as planned, in a timely manner. The role of the risk owner and that of the risk action owner may be 
+assigned to a single person. 
+ Responses, when implemented, can have potential effects on the project objectives and, as such, can 
+generate additional risks. These are known as secondary risks and have to be analyzed and planned for in the 
+same way as those risks which were initially identiﬁ ed. 
+ It is never feasible or even desirable to eliminate all threats from a project. Similarly, there is also a limit 
+to the extent to which opportunities can be proactively managed. There may be residual risks that will remain 
+after the responses have been implemented. These residual risks should be clearly identiﬁ ed, analyzed, 
+documented, and communicated to all relevant stakeholders. 
+
+
+Figure 8-1: Critical Success Factors for Risk Response Planning
+
+This image presents the critical success factors for effective risk response planning. It organizes the factors into three main categories: People, Planning, and Analysis, with each category having its own set of factors.
+
+1. People:
+   - Communicate.
+   - Define roles and responsibilities.
+
+2. Planning:
+   - Specify timing of responses.
+   - Provide resources, budget, and schedule.
+
+3. Analysis:
+   - Address interaction of risks and responses.
+   - Ensure appropriate, timely, effective, and agreed-upon responses.
+   - Address threats and opportunities.
+   - Develop strategies.
+
+The factors are shown branching from the central element labeled Risk Response Planning, indicating that these are the key components necessary for successful risk response planning.
+
+ All the approved, unconditional actions arising from risk response planning should be integrated into the 
+project management plan in order to ensure that they are carried out as part of normal project implementation. The 
+corresponding organizational and project management rules should also be invoked, including the following: 
+ Project change management and conﬁ guration control; 
+• 
+ Project planning, budgeting, and scheduling; 
+• 
+ Resource management; and 
+• 
+ Project communication planning. 
+• 
+ 8.2 Critical Success Factors for the Plan Risk Responses Process 
+ A range of factors are important for the success of the Plan Risk Responses process. These are described 
+in Sections 8.2.1 through 8.2.8 and shown in Figure 8-1. 
+ 
+ Figure 8-1. Critical Success Factors for Risk Response Planning 
+  8.2.1 Communicate 
+ Communication with the various stakeholders should be maintained in an open and appropriate manner. The 
+resulting plans are disseminated and approval obtained in order to ensure full acceptance by all stakeholders. 
+ In addition, if organizational causes of risks, such as culture, attitudes, or disagreements concerning 
+objectives are present, they should be addressed openly. This may require involving high levels of the 
+organization’s management and other stakeholders. 
+
+ 8.2.2 Clearly Deﬁ ne Risk-Related Roles and Responsibilities 
+ The risk response success will be dependent upon the full support and involvement of the project team and 
+other stakeholders. The key roles for Project Risk Management are those of risk owner and risk action owner. 
+A single risk owner should be assigned to every identiﬁ ed risk, and each agreed-upon risk response should 
+have a single risk action owner. The people with the corresponding responsibilities should be aware of what is 
+expected of them, and the other project stakeholders should understand and accept the needs and authority 
+of these roles. 
+ Management may take ownership of risks with political, organizational causes. In addition, senior 
+management should approve and track associated risk-related contingency reserves. 
+ 8.2.3 Specify Timing of Risk Responses 
+ Agreed-upon responses should be integrated into the project management plan and will therefore be 
+scheduled and assigned for execution. The responses that depend on uncertain conditions should also be 
+monitored so as to be performed if the conditions warrant them. 
+ 8.2.4 Provide Resources, Budget, and Schedule for Responses 
+ Each response should be planned in detail in accordance with the methodology of the project and integrated 
+into the project management plan. This entails estimating the resources, costs, and duration; updating the 
+budget and schedule; obtaining approval from management; and obtaining commitment from the risk owners 
+and risk action owners. Management’s role at this stage is vital for supporting the project manager in developing 
+risk responses and authorizing the corresponding resources. 
+ 8.2.5 Address the Interaction of Risks and Responses 
+ Responses may be developed to address risks related either by cause and effect or by common root cause. 
+Categorization of risks, for example by using tools such as the risk breakdown structure, afﬁ nity diagram, or 
+other categorizing tools, may help identify and address this situation. There is also a need during the Plan Risk 
+Responses process to consider the risks aggregated during the Perform Quantitative Risk Analysis process 
+(e.g., ten small, related risks combined may pose a big risk to the project), and then to develop generic 
+responses where possible. Another interaction effect that may occur is when one risk, if it occurs, may affect 
+the probability or impact of other risks. 
+ Deciding on the response strategy may require a compromise, since some proposed responses may be 
+mutually exclusive or counterproductive. For example mitigating a threat to time could cost money, thereby 
+increasing pressure on the budget. Risk response planning also needs to take a holistic view of all proposed 
+responses and make sure they are coherent. 
+
+ The challenge therefore in planning responses to risks is the need to control the potential effects of the 
+strategy developed for treating the original risk. If this is overlooked, the total level of threat in a project can 
+actually increase, or the potential for opportunities can be compromised. 
+ 8.2.6 Ensure Appropriate, Timely, Effective, and Agreed-Upon Responses 
+ In general, responses should be appropriate, timely, cost-effective, feasible, achievable, agreed-upon, 
+assigned, and accepted. Any proposed risk response plan needs to be assessed against the following criteria: 
+ Consistency with organizational values, project objectives, and stakeholder expectations; 
+• 
+ Technical feasibility; 
+• 
+ Ability of the project team or risk action owners outside the project to carry out the corresponding 
+• 
+actions; and 
+ Balance between overall impact of the response on the project objectives and the improvement in 
+• 
+the risk proﬁ le of the project. 
+ 8.2.7 Address Both Threats and Opportunities 
+ Risk response planning should combine responses that address the threats as well as those that provide 
+for opportunities into a single, integrated plan. If either threats or opportunities are not fully addressed, the 
+combined set of response strategies will be incomplete and may even be invalid. 
+ 8.2.8 Develop Strategies before Tactical Responses 
+ Risk response planning should be carried out in an open-minded manner rather than adopting the ﬁ rst 
+response that seems to be feasible. The responses should be planned at a general, strategic level and the 
+strategy validated and agreed upon, prior to developing the detailed tactical approach. 
+ Once the responses have been planned at a strategic level, they should be expanded into actions at the tactical 
+level and integrated into the project management plan (e.g., schedule, budget, and resource assignments). This 
+activity may generate additional secondary risks, which will need to be addressed at this time. 
+ 8.3 Risk Response Strategies 
+ The project manager should develop risk response strategies for individual risks, sets of risks, and project-
+level risks. An overview of the steps in arriving at a complete set of responses is given in Figure 8-2. 
+ The affected stakeholders should be involved in determining the strategies. Once the strategies have been 
+selected, they need to be agreed upon by the entity that approves those strategies. There are four strategies 
+which address individual risks for threats and opportunities as described in Sections 8.3.1 through 8.3.4 (see 
+also Fig. 8-2). 
+
+ 8.3.1 Avoid a Threat or Exploit an Opportunity 
+ This strategy involves taking the actions required to address a threat or an opportunity in order to ensure 
+either that the threat cannot occur or can have no effect on the project, or that the opportunity will occur and 
+the project will be able to take advantage of it. 
+ 8.3.2 Transfer a Threat or Share an Opportunity 
+ This strategy entails transference to a third party that is better positioned to address a particular threat or 
+opportunity. 
+ 8.3.3 Mitigate a Threat or Enhance an Opportunity 
+ Mitigation and enhancement are the most widely applicable and widely used response strategies. Here, the 
+approach is to identify actions that will decrease the probability and/or the impact of a threat, and increase the 
+probability and/or the impact of an opportunity. 
+ 8.3.4 Accept a Threat or an Opportunity 
+ This strategy applies when the other strategies are not considered applicable or feasible. Acceptance entails 
+taking no action unless the risk actually occurs, in which case contingency or fallback plans may be developed 
+ahead of time, to be implemented if the risk presents itself. 
+ 8.3.5 Applying Risk Response Strategies to Overall Project Risk 
+ In addition to responding to individual risks, the four risk response strategies can be applied to address 
+overall project risk as follows: 
+ Cancel the project, as a last resort, if the overall level of risk remains unacceptable. 
+• 
+ Set up a business structure in which the customer and the supplier share the risk. 
+• 
+  Re-plan the project or change the scope and boundaries of the project, for example, by modifying the 
+• 
+project priority, resource allocations, delivery calendar, etc. 
+ Pursue the project despite a risk exposure that exceeds the desired level. 
+• 
+ 8.4 Tools and Techniques for the Plan Risk Responses Process 
+ There are four categories of tools and techniques, as follows: 
+ Creativity tools to identify potential responses, 
+• 
+ Decision-support tools for determining the optimal potential response. 
+• 
+ Strategy implementation techniques designed to turn a strategy into action, and 
+• 
+ Tools to transfer control to the Monitor and Control Risks process. 
+• 
+
+ These categories of tools can be used respectively to identify potential responses, select the most 
+appropriate response, translate strategy into planning, and assign the corresponding actions. The steps 
+involved in planning risk responses are shown in Figure 8.2. 
+ 8.4.1 Response Identiﬁ cation 
+ Risk response planning builds on the available information about the potential risks and aims to determine 
+the optimal set of responses. For this reason, it should involve subject matter experts and employ creativity 
+techniques in order to explore all of the options. Project planning and execution techniques are then required 
+to evaluate the potential effects of the various options on the project’s objectives. 
+ 8.4.2 Response Selection 
+ Once the set of potential responses for the risks being addressed is established, decision-support techniques 
+may need to be applied to select the best possible subset from these responses. The selection process should 
+take into account the cost of the responses, the impact on the project objectives, uncertainty of outcomes and 
+the possible secondary and residual risks. The Identify Risks, Perform Quantitative Risk Analysis, and Plan Risk 
+Responses processes may then need to be applied to the resultant project management plan and the residual 
+and secondary risks that it would entail. This iterative approach continues until all of the individual risks are 
+deemed acceptable and the overall risk is within a predeﬁ ned threshold. 
+ 8.4.3 Action Planning 
+ Project planning tools are used to turn the chosen strategies into concrete actions and to integrate these into 
+existing plans. The corresponding actions may be unconditional (i.e., integrated into the project management 
+plan) or contingent on a trigger condition and predeﬁ ned as a contingency response strategy. 
+ 8.4.4 Ownership and Responsibility Assignment 
+ The project manager needs to use resource assignment processes to ensure the availability of an owner for 
+each risk and for each response action, so that each associated risk is managed and each corresponding risk 
+response is carried out in a timely and effective manner. 
+ To enable risk monitoring to identify the imminence or actual occurrence of the corresponding event, every 
+contingency response strategy should include a set of trigger conditions. The responsibility for monitoring 
+these conditions should be clearly assigned in the Plan Risk Responses process and managed in the Monitor 
+and Control Risks process. 
+
+
+Figure 8-2: The Steps Involved in Planning Risk Responses
+
+This image outlines the step-by-step flow of planning risk responses. The process is depicted vertically, with arrows showing the flow from one step to the next:
+
+1. Plan Risk Responses:
+   - The overall process starts with planning risk responses.
+
+2. Identify Responses:
+   - The first actionable step is to identify appropriate responses to the risks.
+
+3. Select Responses:
+   - After identifying potential responses, specific responses are selected for implementation.
+
+4. All Risks Addressed?:
+   - This is a decision point. If all risks are addressed, the process continues to the next step. If not, the process loops back to Identify Responses to address any remaining risks.
+
+5. Plan & Resource Actions:
+   - Once all risks are addressed, actions are planned, and resources are allocated to implement the risk responses.
+
+6. Update Risk Register:
+   - The risk register is updated to reflect the planned responses and actions.
+
+7. Review Predicted Residual Exposure:
+   - The predicted residual exposure is reviewed to ensure it is acceptable after implementing the risk responses.
+
+8. Predicted Exposure Acceptable?:
+   - This is another decision point. If the exposure is acceptable, the process moves to the final step. If not, the process loops back to the Plan & Resource Actions step for adjustments.
+
+9. Update Project Management Plan:
+   - If the predicted exposure is acceptable, the project management plan is updated to incorporate the finalized risk responses.
+
+ The strategic deﬁ nition of risk responses should include measurable criteria for success of the response. 
+Risk action owners should monitor their assigned risks, take agreed-upon actions as required, and provide 
+the risk owners with relevant information on status or changes to the risk characteristics. Risk owners should 
+assess the effectiveness of any actions, decide whether additional actions are required, and keep the project 
+manager informed of the situation. 
+ 
+ Figure 8-2. The Steps Involved in Planning Risk Responses 
+
+ 
+ 8.5 Documenting the Results of the Plan Risk Responses Process 
+ Risk response planning is based on the information placed in the risk register during execution of the 
+Identify Risks and Perform Analysis processes. The corresponding risk response information is often referred 
+to as the risk response plan, although it may in fact be an integral part of the risk register. 
+ 8.5.1 Add Risk Responses to the Risk Register 
+ The response-related information for each risk is recorded in the risk register and updated regularly. Any 
+interested stakeholder should be able to rapidly access all the information required to verify their responsibilities 
+and manage the risk in accordance with the risk response plan. The set of residual risks and their priorities 
+are clearly identiﬁ ed and recorded. 
+ 8.5.2 Add Corresponding Risk Responses to the Project Management Plan 
+ While developing the detailed set of risk responses, the project-related implications are evaluated for 
+inclusion in a modiﬁ ed project management plan. These include costs, resource assignments, scheduling 
+details, and changes to project documentation. Until these changes are formally approved along with the 
+additional risks that they may carry, risk response planning cannot be considered complete. 
+ 8.5.3 Review and Document Predicted Exposure 
+ Once the risk responses have been deﬁ ned and integrated into the project management plan, the individual 
+and overall residual risks related to this plan are evaluated in order to determine whether additional response 
+planning is required, as shown in Figure 8-2. This evaluation should provide an estimate of both the expected 
+post-response situation and the potential improvement of the risk exposure assuming that the proposed 
+responses are effective. The evaluation should be documented. 
+
+ MONITOR AND CONTROL RISKS 
+ The effectiveness of Project Risk Management depends upon the way the approved plans are carried out. 
+These plans should be executed correctly, reviewed, and updated regularly. If this is carried out correctly, the 
+invested effort will be rewarded and future projects will beneﬁ t from this project’s experience. 
+ 9.1 Purpose and Objectives of the Monitor and Control Risks Process 
+ The primary objectives of risk monitoring and controlling are to track identiﬁ ed risks, monitor residual risks, 
+identify new risks, ensure that risk response plans are executed at the appropriate time, and evaluate their 
+effectiveness throughout the project life cycle. 
+ In addition to tracking and managing the risk response actions, the effectiveness of all of the Project 
+Risk Management processes should be reviewed to provide improvements to the management of the current 
+project as well as future ones. 
+ For each risk or set of risks for which a contingent response has been deﬁ ned, the corresponding set of 
+trigger conditions should have been speciﬁ ed. It is the responsibility of the action owner to ensure that these 
+conditions are effectively monitored and that the corresponding actions are carried out as deﬁ ned, in a timely 
+manner. 
+ Once the Plan Risk Responses process is complete, all of the approved unconditional response actions 
+should have been included and deﬁ ned in the current project management plan. The ﬁ rst action of risk 
+monitoring and controlling is to check whether this is the case and take any appropriate action if necessary, 
+such as invoking the change management process with respect to any missing actions. This will then ensure 
+that the agreed-upon actions are carried out within the normal project execution framework. 
+ The risk owners and risk action owners need to be briefed on any changes that may affect their 
+responsibilities. Effective communication needs to be maintained between them and the project manager so 
+that the designated stakeholders accept accountability for controlling the potential outcomes of speciﬁ c risks, 
+apply their best efforts to track the associated trigger conditions and carry out the agreed-upon responses in 
+a timely manner. 
+ In addition to the response actions and trigger conditions, a mechanism for measuring the effectiveness 
+of the response is provided by the Plan Risk Responses process. The risk action owner should keep the risk 
+owner aware of the status of the response actions so that the risk owner can decide when the risk has been 
+effectively dealt with, or whether additional actions need to be planned and implemented. 
+
