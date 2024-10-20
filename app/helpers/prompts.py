@@ -6,53 +6,9 @@ import json
 import ollama.client as client
 
 
-def extractConcepts(prompt: str, metadata={}, model="mistral"):
-    SYS_PROMPT = (
-        "Your task is to extract the key concepts and their attributes mentioned in the given context. "
-        "For each concept, also extract the relevant attributes such as names, roles, dates, or other properties. "
-        "Extract only the most important and atomistic concepts, and break them down into simpler concepts if necessary. "
-        "Categorize the concepts in one of the following categories: "
-        "[event, concept, place, object, document, organisation, condition, misc].\n"
-        "For each concept, identify and list their attributes.\n"
-        "Format your output as a list of json objects with the following format:\n"
-        "[\n"
-        "   {\n"
-        '       "entity": "The Concept",\n'
-        '       "importance": "The contextual importance of the concept on a scale of 1 to 5 (5 being the highest)",\n'
-        '       "category": "The Type of Concept",\n'
-        '       "attributes": {\n'
-        '           "name": "Attribute Name",\n'
-        '           "value": "Attribute Value"\n'
-        "       }\n"
-        "   }, \n"
-        "{ }, \n"
-        "]\n"
-    )
-    
-    # Generate response using the model (simulated here)
-    response, _ = client.generate(model_name=model, system=SYS_PROMPT, prompt=prompt)
-    
-    try:
-        # Parse the JSON response
-        result = json.loads(response)
-        
-        # Add metadata if any
-        result = [dict(item, **metadata) for item in result]
-    except Exception as e:
-        print(f"\n\nERROR ### Here is the buggy response: {response}, Error: {e}\n\n")
-        result = None
-    
-    return result
-
-
-
 def graphPrompt(input: str, metadata={}, model="mistral"):
     if model == None:
         model = "mistral"
-
-    # model_info = client.show(model_name=model)
-    # print( chalk.blue(model_info))
-
     SYS_PROMPT = (
         "You are a network graph maker who extracts terms and their relations from a given context. "
         "You are provided with a context chunk (delimited by ```) Your task is to extract the ontology "
@@ -71,7 +27,7 @@ def graphPrompt(input: str, metadata={}, model="mistral"):
         "   {\n"
         '       "node_1": "A concept from extracted ontology",\n'
         '       "node_2": "A related concept from extracted ontology",\n'
-        '       "edge": "relationship between the two concepts, node_1 and node_2 in one or two sentences"\n'
+        '       "edge": "Single verb indicating the relationship between node_1 and node_2."\n'
         "   }, {...}\n"
         "]"
     )
