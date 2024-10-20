@@ -5,13 +5,13 @@ sys.path.append("..")
 import json
 import ollama.client as client
 
+model = "llama3:latest"
 
-def graphPrompt(input: str, metadata={}, model="mistral"):
-    if model == None:
-        model = "mistral"
+def graphPrompt(input: str, metadata={}):
+    
     SYS_PROMPT = (
         "You are a network graph maker who extracts terms and their relations from a given context. "
-        "You are provided with a context chunk (delimited by ```) Your task is to extract the ontology "
+        "You are provided with a context chunk Your task is to extract the ontology "
         "of terms mentioned in the given context. These terms should represent the key concepts as per the context. \n"
         "Thought 1: While traversing through each sentence, Think about the key terms mentioned in it.\n"
             "\tTerms may include object, entity, location, organization, person, \n"
