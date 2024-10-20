@@ -1,11 +1,10 @@
 import pandas as pd
 import numpy as np
 from .prompts import graphPrompt
-import json
 
-def df2Graph(dataframe: pd.DataFrame, model=None) -> list:
+def df2Graph(dataframe: pd.DataFrame) -> list:
     results = dataframe.apply(
-        lambda row: graphPrompt(row.cleaned_text, {"chunk_id": row.chunk_id}, model), axis=1
+        lambda row: graphPrompt(row.cleaned_text, {"chunk_id": row.chunk_id}), axis=1
     )
     # invalid json results in NaN
     results = results.dropna()
